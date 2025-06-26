@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ titulo_web }}</title>
+    <style>
+        body { font-family: sans-serif; margin: 2em; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #dddddd; text-align: left; padding: 8px; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+        th { background-color: #4CAF50; color: white; }
+        img { max-width: 100px; }
+    </style>
+</head>
+<body>
+
+    <h1>{{ titulo_web }}</h1>
+    <form action="/" method="get">
+    <input type="text" name="busqueda" placeholder="Nombre de la carta...">
+    <button type="submit">Buscar</button>
+</form>
+<hr> ```
+    <p>Mostrando las primeras cartas de nuestro catálogo.</p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Edición</th>
+                <th>Rareza</th>
+                <th>Imagen</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for carta in cartas %}
+            <tr>
+                <td>{{ carta.ID }}</td>
+                <td>{{ carta.nombre_carta }}</td>
+                <td>{{ carta.edicion }}</td>
+                <td>{{ carta.rareza }}</td>
+                <td><img src="{{ carta.url_imagen }}" alt="{{ carta.nombre_carta }}"></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+</body>
+</html>

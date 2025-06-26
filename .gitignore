@@ -1,0 +1,33 @@
+# === Entorno Virtual ===
+# Ignora la carpeta del entorno virtual, es la regla más importante.
+venv/
+.venv/
+
+# === Archivos de Caché de Python ===
+# Ignora las carpetas de caché que Python genera automáticamente.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Archivos de Configuración de Editores/IDE ===
+# Ignora las carpetas de configuración de editores populares.
+.vscode/
+.idea/
+
+# === Variables de Entorno y Secretos ===
+# NUNCA subas archivos con contraseñas o claves de API.
+# Por convención, se guardan en un archivo .env
+.env
+.env.*
+
+# === Archivos de Sistema Operativo ===
+# Ignora archivos basura de macOS, Windows y Linux.
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Archivos de Bases de Datos Locales ===
+# Si usas SQLite, no subas el archivo de la base de datos si es para desarrollo.
+*.sqlite3
+db.sqlite3
