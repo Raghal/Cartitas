@@ -7,19 +7,23 @@
     <style>
         body { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; margin: 2em; background-color: #f8f9fa; color: #212529; }
         table { border-collapse: collapse; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background-color: white; border-radius: 8px; overflow: hidden;}
-        th, td { border-bottom: 1px solid #dee2e6; text-align: left; padding: 12px; vertical-align: middle; }
+        th, td { border-bottom: 1px solid #dee2e6; text-align: center; padding: 12px; vertical-align: middle; }
+        td.info-principal { text-align: left; }
         tr:hover { background-color: #e9ecef; }
         thead tr { background-color: #343a40; color: white; text-transform: uppercase; font-size: 12px; letter-spacing: 1px;}
-        img { max-width: 100px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); }
+        img { max-width: 80px; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); }
         h1 { color: #343a40; text-align: center; }
-        .precio { font-weight: bold; font-size: 1.1em; color: #007bff; }
-        .no-disponible { color: #adb5bd; font-style: italic; text-align: center;}
+        .precio { font-weight: bold; font-size: 1.1em; color: #343a40; }
+        .resumen-precio { background-color: #f0eafc; }
+        .precio-promedio { font-size: 1.2em; font-weight: bold; color: #8E44AD; }
+        .precio-minimo { font-size: 0.9em; color: #28a745; }
+        .no-disponible { color: #adb5bd; font-style: italic; }
         .buscador { margin: 2em 0; text-align: center; }
         .buscador input[type="text"] { padding: 12px; font-size: 16px; border: 1px solid #ced4da; border-radius: 4px; width: 50%; max-width: 500px; }
         .buscador button { padding: 12px 22px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer; margin-left: 8px;}
         .buscador button:hover { background-color: #0056b3; }
         .nombre-carta { font-weight: 600; }
-        .info-carta { font-size: 0.9em; color: #6c757d; }
+        .info-carta { font-size: 0.85em; color: #6c757d; }
     </style>
 </head>
 <body>
@@ -38,6 +42,7 @@
             <tr>
                 <th>Imagen</th>
                 <th>Nombre</th>
+                <th>Resumen de Mercado</th>
                 <th>El S. de la Challa</th>
                 <th>MyL Serena</th>
                 <th>Pandora Store</th>
@@ -49,45 +54,34 @@
             <tr>
                 <td>
                     {% if carta.url_imagen and carta.url_imagen == carta.url_imagen %}
-                        <img src="{{ carta.url_imagen }}" alt="{{ carta.nombre_base }}" loading="lazy">
+                        <img src="{{ carta.url_imagen }}" alt="{{ carta.nombre_carta }}" loading="lazy">
                     {% endif %}
                 </td>
-                <td>
-                    <div class="nombre-carta">{{ carta.nombre_base }}</div>
+                <td class="info-principal">
+                    <div class="nombre-carta">{{ carta.nombre_carta }}</div>
                     <div class="info-carta">{{ carta.edicion }} | {{ carta.rareza }}</div>
                 </td>
                 
-                <td>
-                    {% if 'El Señor de la Challa' in carta and carta['El Señor de la Challa'] == carta['El Señor de la Challa'] %}
-                        <span class="precio">${{ "{:,.0f}".format(carta['El Señor de la Challa']).replace(",", ".") }}</span>
+                <td class="resumen-precio">
+                    {% if carta.precio_promedio and carta.precio_promedio == carta.precio_promedio %}
+                        <div class="precio-promedio" title="Precio Promedio">${{ "{:,.0f}".format(carta.precio_promedio).replace(",", ".") }}</div>
+                        <div class="precio-minimo" title="Precio Mínimo">Min: ${{ "{:,.0f}".format(carta.precio_minimo).replace(",", ".") }}</div>
+                        <div class="info-carta">en {{ carta.mejor_tienda }}</div>
                     {% else %}
-                        <span class="no-disponible">-</span>
+                        <span class="no-disponible">No Encontrado</span>
                     {% endif %}
                 </td>
 
+                {% set tiendas = ['El Señor de la Challa', 'MyL Serena', 'Pandora Store', 'JP Store'] %}
+                {% for tienda in tiendas %}
                 <td>
-                    {% if 'MyL Serena' in carta and carta['MyL Serena'] == carta['MyL Serena'] %}
-                        <span class="precio">${{ "{:,.0f}".format(carta['MyL Serena']).replace(",", ".") }}</span>
+                    {% if tienda in carta and carta[tienda] == carta[tienda] %}
+                        <span class="precio">${{ "{:,.0f}".format(carta[tienda]).replace(",", ".") }}</span>
                     {% else %}
                         <span class="no-disponible">-</span>
                     {% endif %}
                 </td>
-                
-                <td>
-                    {% if 'Pandora Store' in carta and carta['Pandora Store'] == carta['Pandora Store'] %}
-                        <span class="precio">${{ "{:,.0f}".format(carta['Pandora Store']).replace(",", ".") }}</span>
-                    {% else %}
-                        <span class="no-disponible">-</span>
-                    {% endif %}
-                </td>
-                
-                <td>
-                    {% if 'JP Store' in carta and carta['JP Store'] == carta['JP Store'] %}
-                        <span class="precio">${{ "{:,.0f}".format(carta['JP Store']).replace(",", ".") }}</span>
-                    {% else %}
-                        <span class="no-disponible">-</span>
-                    {% endif %}
-                </td>
+                {% endfor %}
             </tr>
             {% endfor %}
         </tbody>
