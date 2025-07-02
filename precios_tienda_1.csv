@@ -1,37 +1,1727 @@
-nombre,precio
-Sir Persival (Edicion Limitada Z 02),1000
-Ogham (023/364 Aniversario HD),6000
-Yvain del León (013/334 Aniversario ES Foil LLuvia),5000
-Luz de Prometeo (TKPB25 32/30),4000
-Salmon del Saber (TKPB25 33/30),6000
-Toro Apis (TKPB25 34/30),7000
-Tesoro de Mowa (TKPB25 31/30),5000
-Sir Lamorak (Carta Dorada),5000
-Daana (027/364 Aniversario HD),9000
-Manzana Sidhe (056/364 Aniversario HD),4000
-Milano Rojo (Secreta Promo 13),15000
-Amosis I (LPB23 026/300 ),3000
-Sir Persival (Edicion Limitada 20 Años),2000
-Boobrie (158/364 Aniversario HD Foil),1000
-Aed Finn (CRPB3 076/144),2000
-Ashrays (326/364 Foil),1000
-Kobold (160/364 Anivesrario HD Foil),1000
-Kobol (CRPB3 097/144 Foil),2000
-Rhiannon (153/364 Aniversario HD Foil),1000
-Rhiannon (CRPB3 090/144 Foil),2000
-Tumulario (157/364 Aniversario HD Foil),1000
-Bran el Bendito (162/364 Aniversario HD Foil),1000
-Fuente del Saber (107/364 Aniversario HD Foil),1000
-Red de Plata (TKPB25 18/30),2000
-Nuada Brazo de Plata (008/236),1000
-Mananaun (111/364 Aniversario HD),1000
-Lugh (LPB23 045/300),1000
-Lugh (CRPB3 086/144),2000
-Balor (015/236),1000
-Wyrm Abismal (CRPB3 029/144),2000
-Wyrm Abismal (017/236),1000
-Demonio de Tara (113/364 Aniversario HD),1000
-Tutatis (CRPB3 087-144),2000
-Tutatis (061/364 Aniversario HD),1000
-Tutatis (012/236),1000
-Eriu (068/364 Aniversario HD),1000
+nombre,precio,tienda
+Sir Persival (Edicion Limitada Z 02),1000,El Señor de la Challa
+Ogham (023/364 Aniversario HD),6000,El Señor de la Challa
+Yvain del León (013/334 Aniversario ES Foil LLuvia),5000,El Señor de la Challa
+Luz de Prometeo (TKPB25 32/30),4000,El Señor de la Challa
+Salmon del Saber (TKPB25 33/30),6000,El Señor de la Challa
+Toro Apis (TKPB25 34/30),7000,El Señor de la Challa
+Tesoro de Mowa (TKPB25 31/30),5000,El Señor de la Challa
+Sir Lamorak (Carta Dorada),5000,El Señor de la Challa
+Daana (027/364 Aniversario HD),9000,El Señor de la Challa
+Manzana Sidhe (056/364 Aniversario HD),4000,El Señor de la Challa
+Milano Rojo (Secreta Promo 13),15000,El Señor de la Challa
+Amosis I (LPB23 026/300 ),3000,El Señor de la Challa
+Sir Persival (Edicion Limitada 20 Años),2000,El Señor de la Challa
+Boobrie (158/364 Aniversario HD Foil),1000,El Señor de la Challa
+Aed Finn (CRPB3 076/144),2000,El Señor de la Challa
+Ashrays (326/364 Foil),1000,El Señor de la Challa
+Kobold (160/364 Anivesrario HD Foil),1000,El Señor de la Challa
+Kobol (CRPB3 097/144 Foil),2000,El Señor de la Challa
+Rhiannon (153/364 Aniversario HD Foil),1000,El Señor de la Challa
+Rhiannon (CRPB3 090/144 Foil),2000,El Señor de la Challa
+Tumulario (157/364 Aniversario HD Foil),1000,El Señor de la Challa
+Bran el Bendito (162/364 Aniversario HD Foil),1000,El Señor de la Challa
+Fuente del Saber (107/364 Aniversario HD Foil),1000,El Señor de la Challa
+Red de Plata (TKPB25 18/30),2000,El Señor de la Challa
+Nuada Brazo de Plata (008/236),1000,El Señor de la Challa
+Mananaun (111/364 Aniversario HD),1000,El Señor de la Challa
+Lugh (LPB23 045/300),1000,El Señor de la Challa
+Lugh (CRPB3 086/144),2000,El Señor de la Challa
+Balor (015/236),1000,El Señor de la Challa
+Wyrm Abismal (CRPB3 029/144),2000,El Señor de la Challa
+Wyrm Abismal (017/236),1000,El Señor de la Challa
+Demonio de Tara (113/364 Aniversario HD),1000,El Señor de la Challa
+Tutatis (CRPB3 087-144),2000,El Señor de la Challa
+Tutatis (061/364 Aniversario HD),1000,El Señor de la Challa
+Tutatis (012/236),1000,El Señor de la Challa
+Eriu (068/364 Aniversario HD),1000,El Señor de la Challa
+Eriu (LPB23 094/300),1000,El Señor de la Challa
+Macha (CRPB3 017/144),2000,El Señor de la Challa
+Macha (063/364 Aniversario HD),1000,El Señor de la Challa
+Bran (Promocional Aniversario HD 3),2000,El Señor de la Challa
+Devorador de Almas (069/364 Aniversario HD),1000,El Señor de la Challa
+Aedan Macgabrain (085/364 aniversario HD),1000,El Señor de la Challa
+Slaine (LPB23 091/300),1000,El Señor de la Challa
+Pryderi (CRPB3 074/144),2000,El Señor de la Challa
+Pryderi (256/364),1000,El Señor de la Challa
+Aine (CRPB3 019/144),3000,El Señor de la Challa
+Laegerie (019/236),1000,El Señor de la Challa
+Laegerie (PBX 58/80),1000,El Señor de la Challa
+Aed (LPB23 152/300),1000,El Señor de la Challa
+Gruagash (CRPB3 026/144),2000,El Señor de la Challa
+Gruagash (246/364),1000,El Señor de la Challa
+Duegar (021/236),1000,El Señor de la Challa
+Anillos de Badbury (TKPB25 21/30),12000,El Señor de la Challa
+Despertar Oscuro (TKPB25 17/30),2000,El Señor de la Challa
+Las Tres Plagas (TKPB25 22/30),4000,El Señor de la Challa
+Juicio de Tutatis (TKPB25 20/30),3000,El Señor de la Challa
+Glas Gaibhenenn (TKPB25 19/30),4000,El Señor de la Challa
+Arbol de Sangre (TKPB25 16/30),6000,El Señor de la Challa
+Gran Khopesh (PBX 67/80),1000,El Señor de la Challa
+Lanza de Ramses (TKPB25 28/30),4000,El Señor de la Challa
+Resplandor de Heka (TKPB25 24/30),8000,El Señor de la Challa
+Forma de Lince (TKPB25 23/30),6000,El Señor de la Challa
+La vision (TKPB25 29/30),8000,El Señor de la Challa
+Regresa el Dios (TKPB25 27/30),5000,El Señor de la Challa
+Biblioteca Eterna (TKPB25 26/30),2000,El Señor de la Challa
+Papiros de Lahun (TKPB25 25/30),3000,El Señor de la Challa
+Ataud de Ramses (TKPB25 30/30),5000,El Señor de la Challa
+Mathgen el Mago (LPB23 151/300),1000,El Señor de la Challa
+Math (067/364 Aniversario HD),1000,El Señor de la Challa
+La Serpiente Negra (CRPB3 100-144),2000,El Señor de la Challa
+La Serpiente Negra (LPB23 047/300),1000,El Señor de la Challa
+Conn (080/364 Aniversario HD),1000,El Señor de la Challa
+Averix el Sabio (040/236),1000,El Señor de la Challa
+Caoranach (LPB23 098/300),1000,El Señor de la Challa
+Cerridwen (112/364 Aniversario HD),1000,El Señor de la Challa
+Fergus mor Maceric (LPB23 090/300),1000,El Señor de la Challa
+Macda Tho (243/364),1000,El Señor de la Challa
+Conla (LPB23 048/300),1000,El Señor de la Challa
+Conla (CRPB3 079/144),2000,El Señor de la Challa
+Cuchulain (CRPB3 075/144),2000,El Señor de la Challa
+Cuchulain (078/364 Aniversario HD),1000,El Señor de la Challa
+Cuchulain (028/236),1000,El Señor de la Challa
+Ogma (004/236),1000,El Señor de la Challa
+Slaugh (024/236),1000,El Señor de la Challa
+Ethain (005/236),1000,El Señor de la Challa
+Dianan y Bechulle (038/236),1000,El Señor de la Challa
+Tuatha de Danaan (Carta Promo 2),2000,El Señor de la Challa
+Brian Boru (CRPB3 082/144),3000,El Señor de la Challa
+Caer Ibormeith (Festividades 09/12),5000,El Señor de la Challa
+Conall Cernach (PBX 41/80),1000,El Señor de la Challa
+Amergin el Druida (039/236),1000,El Señor de la Challa
+Brigit (009/236),1000,El Señor de la Challa
+Brigit (CRPB3 013/144),2000,El Señor de la Challa
+Arianrhod (236/364),1000,El Señor de la Challa
+Gronw Pebyr (120/364 Aniversario HD),1000,El Señor de la Challa
+El Dagda Mor (002/236),1000,El Señor de la Challa
+Cethilion (027/236),1000,El Señor de la Challa
+Bodicea (030/236),1000,El Señor de la Challa
+Abbey Lubber (022/236),1000,El Señor de la Challa
+Diancecht (109/364 Aniversario HD),1000,El Señor de la Challa
+Oengus (073/364 Aniversario HD),1000,El Señor de la Challa
+Oengus (LPB23 156/300),1000,El Señor de la Challa
+Kenneth I (087/364 Aniversario HD),1000,El Señor de la Challa
+Kenneth I (LPB23 153/300),1000,El Señor de la Challa
+Fergus (CRPB3 073/144),2000,El Señor de la Challa
+Angus Og (059/364 Aniversario HD),1000,El Señor de la Challa
+Lanza de Fuego (066/236),1000,El Señor de la Challa
+Espada Necrofaga (276/364),1000,El Señor de la Challa
+Espada de la Luz (060/236),1000,El Señor de la Challa
+Espada Lunar (273/364),1000,El Señor de la Challa
+Arabar (145/364 Aniversario HD),1000,El Señor de la Challa
+Martillo Pesado (TKP1 06/15),3000,El Señor de la Challa
+Lanza de la Victoria (099/364 Aniversario HD),1000,El Señor de la Challa
+Gae Bolga (065/236),1000,El Señor de la Challa
+Carro Celta (LPB23 160/300),1000,El Señor de la Challa
+Moy-Mell (LPB23 101/300),1000,El Señor de la Challa
+Avalon (PBX 53/80),2000,El Señor de la Challa
+Avalon (TKP2 07/15),2000,El Señor de la Challa
+Avalon (073/236),1000,El Señor de la Challa
+Ty Newydd (102/364 Aniversario HD),1000,El Señor de la Challa
+Tier-Na-Oge (148/364 Aniversario HD),1000,El Señor de la Challa
+Minas de Gruash (Carta Promo),3000,El Señor de la Challa
+Dalriada (268/364),1000,El Señor de la Challa
+Ulster (LPB23 161/300),1000,El Señor de la Challa
+Ulster (104/364 Aniversario HD),1000,El Señor de la Challa
+País sin Luz (LPB23 103/300),1000,El Señor de la Challa
+Bola de Energia (056/236),1000,El Señor de la Challa
+Bola de Energia (091/364 Aniversario HD),1000,El Señor de la Challa
+Levantar a los Muertos (055/236),1000,El Señor de la Challa
+Levantar a los Muertos (090/364 Aniversario HD),1000,El Señor de la Challa
+Voz de la Tierra (053/236),1000,El Señor de la Challa
+Piedra del Destino (049/236),1000,El Señor de la Challa
+Leon Blanco (096/364 Aniversario HD),1000,El Señor de la Challa
+Cambiar de Forma (042/236),1000,El Señor de la Challa
+Animar los Elementos (138/364 Aniversario HD),1000,El Señor de la Challa
+Fuego Mágico (129/364 Aniversario HD),1000,El Señor de la Challa
+Aplastar Fomor (TKP1 15/15),2000,El Señor de la Challa
+Duelo Maldito (098/364 Aniversario HD),1000,El Señor de la Challa
+LLama Marina (059/236),1000,El Señor de la Challa
+Ojo Asesino (TKPB24 26/28),2000,El Señor de la Challa
+Berserk (057/236),1000,El Señor de la Challa
+Sacrificio (137/364 Aniversario HD),1000,El Señor de la Challa
+La Cabeza del Mal (139/364 Aniversario HD),1000,El Señor de la Challa
+La Cabeza del Mal (267/364),1000,El Señor de la Challa
+La Traicion de Macalpin (TKP1 10/15),2000,El Señor de la Challa
+Morir de Pie (LPB23 049/300),2000,El Señor de la Challa
+Linaje Celta (70/85 Leyendas PB),1000,El Señor de la Challa
+Carmix (TKP1 12/15),2000,El Señor de la Challa
+Carmix (LPB23 104/300),1000,El Señor de la Challa
+Salmon del Saber (PBX 50/80),9000,El Señor de la Challa
+Letania (Promocional Aniversario HD 4),2000,El Señor de la Challa
+Gaitas (TPK1 02/15),3000,El Señor de la Challa
+Ogham (278/364),1000,El Señor de la Challa
+Glas Gaibhennen (TKPB24 28/28),5000,El Señor de la Challa
+Tuatha De Danaan (Carta Promo),5000,El Señor de la Challa
+Olimpicos (Edicion Limitada 20 años),3000,El Señor de la Challa
+Aguila Imperial (Edicion Limitada 20 Años),2000,El Señor de la Challa
+Red de Plata (LPB 06),10000,El Señor de la Challa
+Conand (LPB23 019/300),5000,El Señor de la Challa
+Sehetepibre (152/238 Foil),1000,El Señor de la Challa
+Sehetepibre (CRPB3 124-144),2000,El Señor de la Challa
+Selkis (CRPB3 013/144),2000,El Señor de la Challa
+Ash (LBPB24 21/30),1000,El Señor de la Challa
+Bennu (Edicion Limitada Foil),1000,El Señor de la Challa
+Tamis (CRPB3 037/144 Foil),2000,El Señor de la Challa
+Guerreros Egipcios (CRPB3 038/144),2000,El Señor de la Challa
+Esna (Edicion Limitada Foil),1000,El Señor de la Challa
+Ptah (002/236),1000,El Señor de la Challa
+Snofru (022/236),1000,El Señor de la Challa
+Dario el Grande (CRPB3 042/144),2000,El Señor de la Challa
+Dario el Grande (LPB23 108/300),1000,El Señor de la Challa
+Oseye (LPB23 053/300),1000,El Señor de la Challa
+Iuwlot (248/364),1000,El Señor de la Challa
+Qer-Her (CRPB3 050/144),2000,El Señor de la Challa
+Qer-Her (035/236),1000,El Señor de la Challa
+Kiya (CRPB3 052-144),2000,El Señor de la Challa
+Haquika (CRPB3 053/144),2000,El Señor de la Challa
+Haquika (LPB23 051/300),1000,El Señor de la Challa
+Takelot (CRPB3 051/144),2000,El Señor de la Challa
+Takelot 20 (LPB23 105/300),1000,El Señor de la Challa
+Neferite I (CRPB3 039/144),2000,El Señor de la Challa
+Neferite I (LPB23 052/300),1000,El Señor de la Challa
+Suma (CRPB3 054/144),2000,El Señor de la Challa
+Mafedet (255/364),1000,El Señor de la Challa
+Ptolomeo II (238/364),1000,El Señor de la Challa
+Tuthu (LPB23 166/300),1000,El Señor de la Challa
+Amosis I (CRPB3 044/144),3000,El Señor de la Challa
+Heka (CRPB3 071/144),5000,El Señor de la Challa
+Erastostenes (LPB23 107/300),1000,El Señor de la Challa
+Erastostenes (CRPB3 056/144),2000,El Señor de la Challa
+Erastostenes (LBPB24 24/30),2000,El Señor de la Challa
+Duat (TKPB15 15/28),2000,El Señor de la Challa
+Duat (LPB23 117/300),1000,El Señor de la Challa
+Dendera (LPB23 057/300),1000,El Señor de la Challa
+Templo de Pilae (PBX 69/80),1000,El Señor de la Challa
+Sakraham (LPB23 170/300),1000,El Señor de la Challa
+Armadura de Bronce (PBX 68 80),1000,El Señor de la Challa
+Qadesh (LPB23 169/300),1000,El Señor de la Challa
+Osiris ha Muerto (047/236),1000,El Señor de la Challa
+Alas de Horus (042/236),1000,El Señor de la Challa
+Aliento de Anubis (LPB23 110/300),1000,El Señor de la Challa
+Atacar la Barca (PBX 64/80),1000,El Señor de la Challa
+Venganza (048/236),1000,El Señor de la Challa
+Jugar con las LLamas (263/364),1000,El Señor de la Challa
+Traición de Seth (TKPB24 20/28),2000,El Señor de la Challa
+Traicion de Seth (TKP2 05/15),2000,El Señor de la Challa
+Jinetes de Fuego (TKP1 07/15),3000,El Señor de la Challa
+Adios Belleza (265/364),1000,El Señor de la Challa
+Momificacion (043/236),1000,El Señor de la Challa
+Relampago Arcano (Carta Promo),3000,El Señor de la Challa
+Destrozar la Mente (267/364),1000,El Señor de la Challa
+Aton (041/236),1000,El Señor de la Challa
+Corona Faraonica (223/236),1000,El Señor de la Challa
+Ojo Udyat (278/364),1000,El Señor de la Challa
+Atlante (144/344 Aniversario HE),1000,El Señor de la Challa
+Atlante (CRPB3 049/144),1500,El Señor de la Challa
+Orion (151/334 Aniversario HE),1000,El Señor de la Challa
+Orion (CRPB3 066/144),1500,El Señor de la Challa
+Epimeteo (CRPB3 053/144),1500,El Señor de la Challa
+Escila (152/334 Aniversario HE),1000,El Señor de la Challa
+Temis (CRPB3 054/144),2000,El Señor de la Challa
+Fenix (CRPB3 038/144),2000,El Señor de la Challa
+Pan (138/334 Aniversario HE),1000,El Señor de la Challa
+Pan (LPB23 176/300),1000,El Señor de la Challa
+Las Erinias (141/334 Aniversario HE),1000,El Señor de la Challa
+Temistocles (131/334 Aniversario HE),1000,El Señor de la Challa
+Constantino (CRPB3 064/144),1500,El Señor de la Challa
+Panteon (145/334 Aniversario HE) Foil,2000,El Señor de la Challa
+Antropofagos (134/334 Aniversario HE),1000,El Señor de la Challa
+Arcas del Imperio (147/334 Aniversario HE) Foil,1000,El Señor de la Challa
+Heroes (155/334 Aniversario HE) Foil,1000,El Señor de la Challa
+Festin (149/334 Aniversario HE) Foil,1000,El Señor de la Challa
+Prometeo (035/334 Aniversario HE),1000,El Señor de la Challa
+Atenea (033/334 Aniversario HE),1000,El Señor de la Challa
+Misterio de la Esfinge (0116/334 Aniversario HE),1000,El Señor de la Challa
+Buja Anis (140/334 Aniversario ES Foil),1000,El Señor de la Challa
+Espada Larga (029/334 Aniversario ES),5000,El Señor de la Challa
+Milano Rojo (PBX 10/80),8000,El Señor de la Challa
+Carwennan (TKP1 14/15),9000,El Señor de la Challa
+Aquiles (LBPB24 08/30),1500,El Señor de la Challa
+Aquiles (027/236),1000,El Señor de la Challa
+Aquiles (PBX 38/80),1000,El Señor de la Challa
+Atlas (031/236),1000,El Señor de la Challa
+El Gran Zeus (028/334 Aniversario HE),1000,El Señor de la Challa
+El Gran Zeus (CRPB3 040/144),1500,El Señor de la Challa
+Los Titanes (072/334 Aniversario HE),1000,El Señor de la Challa
+Kampa (034/236),1000,El Señor de la Challa
+Heracles (014/236),1000,El Señor de la Challa
+Leucrota (CRPB3 051/144),2000,El Señor de la Challa
+Leucrota (LPB23 082/300),1000,El Señor de la Challa
+Prometeo (037/236),1000,El Señor de la Challa
+Prometeo (CRPB3 050/144),1500,El Señor de la Challa
+Neptuno (125/334 Aniversario HE),1000,El Señor de la Challa
+El Oscuro Hades (007/236),1000,El Señor de la Challa
+Poseidon (059/334 Aniversario HE),1000,El Señor de la Challa
+El Oscuro Hades (060/334 Aniversario HE),1500,El Señor de la Challa
+El Oscuro Hades (LPB23 140/300),1500,El Señor de la Challa
+Teseo (065/334 Aniversario HE),1000,El Señor de la Challa
+Apolo (008/236),1000,El Señor de la Challa
+Medusa (LPB23 042/300),3000,El Señor de la Challa
+Medusa (CRPB3 056/144),3500,El Señor de la Challa
+Marco Antonio (CRPB3 062/144),1500,El Señor de la Challa
+Noctumbros (075/334 Aniversario HE),1000,El Señor de la Challa
+Noctumbros  (LPB23 143/300),1000,El Señor de la Challa
+Thanatos (031/334 Aniversario HE),1000,El Señor de la Challa
+Thanatos (010/236),1000,El Señor de la Challa
+Helios (002/236),1000,El Señor de la Challa
+Helios (CRPB3-041-144),1500,El Señor de la Challa
+Jason (103/334 Aniversario HE),1000,El Señor de la Challa
+Cesar Augusto (239/300),1000,El Señor de la Challa
+Julio Cesar (044/334 Aniversario HE),1000,El Señor de la Challa
+Julio Cesar (LPB23 079/300),1000,El Señor de la Challa
+Julio Cesar (CRPB3-061-144),1500,El Señor de la Challa
+Gaia (CRPB3-044-144),2500,El Señor de la Challa
+Hiparion (112/334 Aniversario HE),1000,El Señor de la Challa
+Aristoteles (066/334 Aniversario HE),1000,El Señor de la Challa
+Ares (012/236),1000,El Señor de la Challa
+Atenea (LPB23 077/300),1000,El Señor de la Challa
+Atenea (CRPB3-039-144),1500,El Señor de la Challa
+Espartaco (045/334 Aniversario HE),1000,El Señor de la Challa
+Espartaco (LPB23 080/300),1000,El Señor de la Challa
+Espartaco (CRPB3-063-144),1500,El Señor de la Challa
+Eos (076/334 Aniversario HE),1000,El Señor de la Challa
+Eos (LPB23 081/300),1000,El Señor de la Challa
+Leonidas (CRPB3-067-144),2500,El Señor de la Challa
+Leonidas (054/334 Aniversario HE),2000,El Señor de la Challa
+Leonidas (LPB23 044/300),2000,El Señor de la Challa
+Tea (077/334 Aniversario HE),1000,El Señor de la Challa
+Edipo (107/334 Aniversario HE),1000,El Señor de la Challa
+Astreo (CRPB3-043-144),1500,El Señor de la Challa
+Astreo (LPB23 139/300),1000,El Señor de la Challa
+Perseo (18/85 Leyendas PB),3000,El Señor de la Challa
+Perseo (LPB23 043/300),3000,El Señor de la Challa
+Penelope (106/334 Aniversario HE),1000,El Señor de la Challa
+Eros (CRPB3-037-144),1000,El Señor de la Challa
+Eros (LPB23 138/300),1000,El Señor de la Challa
+Castor (069/334 Aniversario HE),1000,El Señor de la Challa
+Polux (070/334 Aniversario HE),1000,El Señor de la Challa
+Orfeo (067/334 Aniversario HE),1000,El Señor de la Challa
+Selene (111/334 Aniversario HE),1000,El Señor de la Challa
+Paris (105/334 Aniversario HE),1000,El Señor de la Challa
+Dafne (104/334 Aniversario HE),1000,El Señor de la Challa
+Helenica (CRPB3 052/144),1500,El Señor de la Challa
+Dionisio (009/236),1000,El Señor de la Challa
+Hoz De Cronos (119/334 Aniversario HE),1000,El Señor de la Challa
+Martillo de Hefestos (066/236),1000,El Señor de la Challa
+Maquinaria de Guerra (097/334 Aniversario HE),1000,El Señor de la Challa
+Jabalina (065/236),1000,El Señor de la Challa
+Tridente de los Mares (060/236),1000,El Señor de la Challa
+Casco De Hades (064/236),1000,El Señor de la Challa
+Xiphos (118/334 Aniversario HE),1000,El Señor de la Challa
+Arcadia (072/236),1000,El Señor de la Challa
+Campos Elisios (069/236),1000,El Señor de la Challa
+Esparta (095/334 Aniversario HE),1000,El Señor de la Challa
+Templo de Jupiter (127/334 Aniversario HE),1000,El Señor de la Challa
+Atlantida (073/236),1000,El Señor de la Challa
+Coliseo (275-300),1000,El Señor de la Challa
+Tartaro (LBPB24 30/30),3000,El Señor de la Challa
+Hogar de Demonios (089/334 Aniversario HE),1000,El Señor de la Challa
+Caballo de Troya (081/334 Aniversario HE),1000,El Señor de la Challa
+La Ira de Tifon (085/334 Aniversaio HE),1000,El Señor de la Challa
+La Ira de Tifon (051/236),1000,El Señor de la Challa
+Forma De Toro (057/334 Aniversario HE),1000,El Señor de la Challa
+Forma De Toro (TKP1 04/15),1500,El Señor de la Challa
+Alas de Icaro (087/334 Aniversario HE),1000,El Señor de la Challa
+Alas de Icaro (LPB23 084/300),1000,El Señor de la Challa
+Teleute (079/334 Aniversario HE),1000,El Señor de la Challa
+Formacion de Tortuga (100/334 Aniversario HE),1000,El Señor de la Challa
+Ira Ignea (047/236),1000,El Señor de la Challa
+Doce Pruebas (057/236),1000,El Señor de la Challa
+Olimpiadas (050/208),1000,El Señor de la Challa
+Ataque de Anibal (284/300),1000,El Señor de la Challa
+Expulsion de Titanes (078/334 Aniversario HE),5000,El Señor de la Challa
+Almas de Estigia (083/334 Aniversario HE),1000,El Señor de la Challa
+El Vesubio (098/334 Aniversario HE),1000,El Señor de la Challa
+Arde Troya (080/334 Aniversario HE),1000,El Señor de la Challa
+Nacimiento de Pegaso (090/334 Aniversario HE),1000,El Señor de la Challa
+Vellocino de Oro (086/334 Aniversario HE),1000,El Señor de la Challa
+Invocar Luz (082/334 Aniversario HE),1000,El Señor de la Challa
+Romulo y Remo (049/334 Aniversario HE),3000,El Señor de la Challa
+Olimpicos (153/304 Aniversario HE Foil),1000,El Señor de la Challa
+Aceite de Oliva (146/334 Aniversario HE Foil),1500,El Señor de la Challa
+Aceite de Oliva (TKP2 01/15),2000,El Señor de la Challa
+Antorcha Olimpica (LPB23 148/300),1000,El Señor de la Challa
+La Iliada (LPB23 147/300),1000,El Señor de la Challa
+Ave de Hera (TKPB24 04/28),2500,El Señor de la Challa
+Ave de Hera (LPB23 088/300),1500,El Señor de la Challa
+Ofrenda a los Dioses (LPB23 146/300),1000,El Señor de la Challa
+Sir Galehaut (AESX 03/36),3000,El Señor de la Challa
+Sir Galehaut (LBPB24 01/30),3000,El Señor de la Challa
+Guardia Real (CRPB3 002/144),1500,El Señor de la Challa
+Cria De Wyrm (CRPB3 018/144),1500,El Señor de la Challa
+Duque Godofredo (CRPB3 001/144),1500,El Señor de la Challa
+Federico Barbaroja (Carta Promo),2000,El Señor de la Challa
+Curandera (CRPB3 007/144),1500,El Señor de la Challa
+Pixie (CRPB3-026-144 Foil),1500,El Señor de la Challa
+Greenknight (CRPB3-028-144,1500,El Señor de la Challa
+Totem de Nwyre (143/334 Aniversario ES Foil),1000,El Señor de la Challa
+Flecha Acida (AESX 08-36 Foil),1500,El Señor de la Challa
+Misil Magico (155/334 Aniversario ES Foil),1000,El Señor de la Challa
+Ataque de Goblins (AESX 32-36 Foil),1000,El Señor de la Challa
+Urisk (142/234 Aniversario ES Foil),1000,El Señor de la Challa
+Vouivre (031/334 Aniversario ES),2000,El Señor de la Challa
+Dragón del Agua (069/334 Aniversario ES),1000,El Señor de la Challa
+Dragon Demonio (044/334 Aniversario ES),1000,El Señor de la Challa
+Dragon Demonio (015/334 Aniversario ES),1500,El Señor de la Challa
+El Gran Wyrm (107/334 Aniversario ES),1000,El Señor de la Challa
+El Gran Wyrm (PBX-16-80),1000,El Señor de la Challa
+Dragon de Aire (068/334 Aniversario ES),1000,El Señor de la Challa
+Sir Balin (060/334 Aniversario ES),1000,El Señor de la Challa
+Alto Druida (078/334 Aniversario ES),1000,El Señor de la Challa
+Alto Druida (CRPB3-030-144),1500,El Señor de la Challa
+Cornelius de York (101/334 Aniversario ES),1000,El Señor de la Challa
+Dragon de Luz (CRPB3 014/144),1500,El Señor de la Challa
+Dragon de Luz (019/236),1000,El Señor de la Challa
+Kernuac el Cazador (073/334 Aniversario ES),1000,El Señor de la Challa
+Mago Merlin (110/334 Aniversario ES),1000,El Señor de la Challa
+Dragon Nube (CRPB3 015/144),1500,El Señor de la Challa
+Dragon Nube (017/334 Aniversario ES),1500,El Señor de la Challa
+Dragon Nube (046/334 Aniversario ES),1000,El Señor de la Challa
+Dragon Nube (LPB23 069/300),1000,El Señor de la Challa
+Dragon de Magma (CRPB3-013-144),1500,El Señor de la Challa
+Dragon de Magma (LPB23 070/300),1000,El Señor de la Challa
+Dragon de Bronce (072/334 Aniversario ES),1000,El Señor de la Challa
+Dragon de Eter (067/334 Aniversario ES),1000,El Señor de la Challa
+Belial el Bestial (076/334 Aniversario ES),1000,El Señor de la Challa
+Sir Robin de Locksley (054/334),1000,El Señor de la Challa
+Sir Robin De Lockesley (CRPB3 005/144),1500,El Señor de la Challa
+Sir Robin De Lockesley (253/300),1000,El Señor de la Challa
+Belial (AESX 26/36),2000,El Señor de la Challa
+Sir Lancelot del Lago (AESX 01/36),4000,El Señor de la Challa
+Rey Arturo Pendragon (037/334 Aniversario ES),1000,El Señor de la Challa
+Sir Boores (040/334 Aniversario ES),1000,El Señor de la Challa
+Morgana (LPB23 035/300),1000,El Señor de la Challa
+Morgana (020/334 Aniversario ES),1500,El Señor de la Challa
+Morgana (CRPB3 025/144),1500,El Señor de la Challa
+Principe Valiant (105/334 Aniversario ES),1000,El Señor de la Challa
+Taliesin (LPB23 037/300),1000,El Señor de la Challa
+Sir Bedivere (042/334 Aniversario ES),1500,El Señor de la Challa
+El Obispo de Londinium (095/334 Aniversario ES),1000,El Señor de la Challa
+Felipe II (055/336 Aniversario ES),1000,El Señor de la Challa
+Reina Guinivere (038/334 Aniversario ES),1000,El Señor de la Challa
+Reina Guinivere (002/236),1000,El Señor de la Challa
+Puck (079/334 Aniversario ES),1000,El Señor de la Challa
+Ellyllon (114/334 Aniversario ES),1000,El Señor de la Challa
+Cathach (034/334 Aniversario ES),1000,El Señor de la Challa
+Cathach (12/85 Leyendas PB),1000,El Señor de la Challa
+Cathach (CRPB3 020/144),1500,El Señor de la Challa
+Sir Persival (CRPB3 004/144),1500,El Señor de la Challa
+Sir Persival (041/334 Aniversario ES),1000,El Señor de la Challa
+El Poeta (074/334 Aniversario ES),1000,El Señor de la Challa
+Draco Conjurador (PBX 17/80),1000,El Señor de la Challa
+Nimue (035/334 Aniversario ES),2500,El Señor de la Challa
+Nimue (CRPB3 032/144),2500,El Señor de la Challa
+Nimue (LPB23 036/300),2000,El Señor de la Challa
+Ricardo Corazon de Leon (066/334 Aniversario ES),1000,El Señor de la Challa
+Sir Galahad (064/334 Aniversario ES),1000,El Señor de la Challa
+Sir Galahad (CRPB3 006/144),2000,El Señor de la Challa
+Sir Galahad (LPB23 067/300),1000,El Señor de la Challa
+Sir Gawein (103/334 Aniversario ES),1000,El Señor de la Challa
+Mordred (111/334 Aniversario ES),1000,El Señor de la Challa
+Draig Ifanc (54/85 Leyendas PB),2000,El Señor de la Challa
+Draig Ifanc (033/334 Aniversario ES),2000,El Señor de la Challa
+Draig Ifanc (CRPB3 019/144),2500,El Señor de la Challa
+Each Usige (113/334 Aniversario ES),1000,El Señor de la Challa
+Criatura Familiar (061/334 Aniversario ES),2000,El Señor de la Challa
+Yvain del León (013/334 Aniversario ES),3500,El Señor de la Challa
+Yvain del León (CRPB3 008/144),3500,El Señor de la Challa
+Sir Erec (PBX 01/80),6000,El Señor de la Challa
+Titania (075/334 Aniversario ES),1000,El Señor de la Challa
+Oberon (109/334 Aniversario ES),1000,El Señor de la Challa
+La Dama del Lago (077/334 Aniversario ES),1000,El Señor de la Challa
+Federico Barbaroja (065/334 Aniversario ES),1000,El Señor de la Challa
+Basoon (108/334 Aniversario ES),1000,El Señor de la Challa
+Sir Tristán (063/334 Aniversario ES),1000,El Señor de la Challa
+Sir Tristan (LPB23 129/300),1000,El Señor de la Challa
+Josofones (106/334 Aniversario ES),1000,El Señor de la Challa
+Saladino (LBPB24 02/30),2000,El Señor de la Challa
+Las Tres Hermanas (112/334 Aniversario ES),1000,El Señor de la Challa
+Claymore (117/334 Aniversario ES),1000,El Señor de la Challa
+Torre de Campaña (118/334 Aniversario ES),1000,El Señor de la Challa
+Excalibur (089/334 Aniversario ES),1000,El Señor de la Challa
+Espada de Cristal (122/234 Aniversario ES),1000,El Señor de la Challa
+Lanza Divina (AESX 10/36),3000,El Señor de la Challa
+Escudo Sidhe (123/344 Aniversario ES),1000,El Señor de la Challa
+Jerusalen (091/334 Aniversario ES),1000,El Señor de la Challa
+Totem de la Ultima Cancion (088/334 Aniversario ES),1000,El Señor de la Challa
+Woodhage (120/334 Aniversario ES),1000,El Señor de la Challa
+Mezquita de Damasco (132/334 Aniversario ES),1000,El Señor de la Challa
+Guardia Gozosa (032/334 Aniversario ES),2000,El Señor de la Challa
+Siroco (093/334 Aniversario ES),1000,El Señor de la Challa
+Desleal (047/334 Aniversario ES),2000,El Señor de la Challa
+La Mirada de Mordred (49/236),1000,El Señor de la Challa
+La espada en la Piedra (056/236),1000,El Señor de la Challa
+Santo Grial (083/334 Aniversario ES),1000,El Señor de la Challa
+Fe Sin Limite (046/236),3000,El Señor de la Challa
+Fe Sin Limite (TKP2 03/15),3000,El Señor de la Challa
+Mesa Redonda (094/334 Aniversario ES),2000,El Señor de la Challa
+Mercaderes (027/334 Aniversario ES),1000,El Señor de la Challa
+Cruz Templaria (256/300),2000,El Señor de la Challa
+Cruz Templaria (028/334 Aniversario ES),2000,El Señor de la Challa
+Codex Arturicus (221/236),1000,El Señor de la Challa
+Herrero (026/334 Aniversario ES),2000,El Señor de la Challa
+Baron de Gortz (DRA 22/20),10000,El Señor de la Challa
+Lobos De Drácula (LPB23 314/300),10000,El Señor de la Challa
+Tártaro (350-334 / Aniversario HE),3000,El Señor de la Challa
+Antorcha Olímpica (345-334 / Aniversario HE),3000,El Señor de la Challa
+Red de Plata (Edicion Limitada Z 12),2000,El Señor de la Challa
+Bola de Fuego (Edicion Limitada Z 01),4000,El Señor de la Challa
+Bran (CRPB2 09/72),2000,El Señor de la Challa
+Mathgen el Mago (CRPB2 05/72),1000,El Señor de la Challa
+Elatha (CRPB2 34/72),2000,El Señor de la Challa
+Donn (CRCPB2 16/72),1000,El Señor de la Challa
+Avalon (TK2 07/13),1000,El Señor de la Challa
+Despertar Oscuro (TK1 13/13),1000,El Señor de la Challa
+Golpear la Raiz (TK2 10/13),1000,El Señor de la Challa
+Anjesenamon (CRPB2 70/72),2000,El Señor de la Challa
+Sehetepibre (CRPB2 50/72),3000,El Señor de la Challa
+Amenofis III (CRPB2 59/72),2000,El Señor de la Challa
+Nuh (CRPB2 63/72),3000,El Señor de la Challa
+Teti I (CRPB2 58/72),3000,El Señor de la Challa
+Tamis (CRPB2 51/72),3000,El Señor de la Challa
+Guerreros Egipcios (CRPB2 54/72),3000,El Señor de la Challa
+Grandes Faraones (CRPB2 60/72),2000,El Señor de la Challa
+Traicion de Seth (TK2 05/13),3000,El Señor de la Challa
+Relampago Arcano (TK2 02/13),2000,El Señor de la Challa
+Fénix (CRPB 44/72),2000,El Señor de la Challa
+Antropofagos (TK1 12/13),2000,El Señor de la Challa
+Ira Ignea (TK2 12/13),2000,El Señor de la Challa
+Raza De Pigmeos (TK2 09/13),2000,El Señor de la Challa
+Lohengrin (CRPB 11/72),2000,El Señor de la Challa
+Greenknight (CRPB 26/72),2000,El Señor de la Challa
+Espada Larga (TK2 06/13),3000,El Señor de la Challa
+Totem de Nwyre (TK1 03/13),2000,El Señor de la Challa
+Capa de Invisibilidad (TK2 13/13),3000,El Señor de la Challa
+Juramento Feerico (TK2 04/13),2000,El Señor de la Challa
+Dragon Dorado (TK1 01/13),3000,El Señor de la Challa
+Daana (007/364 ANIVERSARIO HD),16000,El Señor de la Challa
+Minas de Gruash (Promo Colecionista 06),5000,El Señor de la Challa
+Minas de Gruash (Promo Exclusiva PB 01),3000,El Señor de la Challa
+Wyrm Abismal (Edicion Limitada Racial 17),3000,El Señor de la Challa
+Gaitas (Edicion Limitada 20 años),7000,El Señor de la Challa
+Gaia (Edicion Limitada PB 07),5000,El Señor de la Challa
+Prometeo (Edicion Limitada PB 08),5000,El Señor de la Challa
+Necrópolis Popular (Coleccionista LB 08),2000,El Señor de la Challa
+Tumulario (Promo Coleccionista 39),6000,El Señor de la Challa
+Ramses II (Promo Coleccionista 30),8000,El Señor de la Challa
+Ra_ (Promo Coleccionista 18),10000,El Señor de la Challa
+Ahmosis el de Fuego (Promo Coleccionista 33),4000,El Señor de la Challa
+Romulo y Remo (Promo Coleccionista 04),8000,El Señor de la Challa
+Dragon de Luz (Promo Colecionista 37),6000,El Señor de la Challa
+Marco Antonio (Full Art 240/364),4000,El Señor de la Challa
+Nuh (Full Art 249/364),3000,El Señor de la Challa
+Oseye (Full Art 245),3000,El Señor de la Challa
+Letania (Carta Promo),4000,El Señor de la Challa
+Micenas (Carta Promo),4000,El Señor de la Challa
+Capa De Invisibilidad (Edicion Limitada 20 Años),5000,El Señor de la Challa
+Zazamoukh (Logo Promocional 250/334),3000,El Señor de la Challa
+Alejandro Magno (Logo Promocional 22/236),3000,El Señor de la Challa
+Bola De Fuego (Logo Promocional 44/236),3000,El Señor de la Challa
+Horda Fomore (Edicion Especial 20 años),2000,El Señor de la Challa
+Defensores Celtas (Edicion Limitada 20 Años),2000,El Señor de la Challa
+Amenofis III (Edicion Limitada 20 Años),2000,El Señor de la Challa
+Piedra Roseta (Edicion Limitada 20 Años),2000,El Señor de la Challa
+Grandes Faraones (Edicion Limitada 20 años),2000,El Señor de la Challa
+Helénica (Edicion Limitada 20 años),3000,El Señor de la Challa
+Titanes (Edicion Limitada 20 años),2000,El Señor de la Challa
+Heroes (Edicion Limitada 20 Años),2000,El Señor de la Challa
+Caballeros (Edicion Limitada 20 años),2000,El Señor de la Challa
+Codex Arturicus (Edicion Limitada 20 años),3000,El Señor de la Challa
+Fergus (JO),3000,El Señor de la Challa
+Panteon (JO),3000,El Señor de la Challa
+Dragon Dorado (JO 2019),5000,El Señor de la Challa
+Aceite de Oliva (JO 2019),4000,El Señor de la Challa
+Traición De Seth (JO),9000,El Señor de la Challa
+Jeroglificos (JO),15000,El Señor de la Challa
+Novias de Dracula (JO),24990,El Señor de la Challa
+Gaitas (Edicion Limitada Rainbow 01),10000,El Señor de la Challa
+Ma`arrat An-Numan (LBPB24 26/30),3000,El Señor de la Challa
+Ma`arrat An-Numan (Aniversario 100/334),1000,El Señor de la Challa
+Plaga (080/334 Aniversario ES),1000,El Señor de la Challa
+La Llama Fria (Aniversario ES 136/344),1000,El Señor de la Challa
+Caballo Lunar (087/334 Aniversario ES),1000,El Señor de la Challa
+Arca de la Alianza (096/334 Aniversario ES),1000,El Señor de la Challa
+Una (084/334 Aniversario ES),1000,El Señor de la Challa
+Cuna de Dragones (082/334 Aniversario ES),1000,El Señor de la Challa
+La Traicion de Lancelot (115/334 Aniversario ES),1000,El Señor de la Challa
+Desleal (LPB23 039/300),2000,El Señor de la Challa
+Transmutacion (081/344 Aniversario ES),1000,El Señor de la Challa
+Gitanos (090/334 Aniversario ES),1000,El Señor de la Challa
+Gitanos (LPB23 131/300),1000,El Señor de la Challa
+Constantino (Promo Coleccionista 36),6000,El Señor de la Challa
+Ataque Sorpresa (Aniversrio ES 119/234),1000,El Señor de la Challa
+Barco (Aniversario ES 099-334),1000,El Señor de la Challa
+Juramento Feerico (TPK2 04/15),1000,El Señor de la Challa
+Santo Grial (050/236),1000,El Señor de la Challa
+Toque de Persival (34/85 Leyendas PB),1000,El Señor de la Challa
+Toque de Persival (036/334 Aniversario ES),1000,El Señor de la Challa
+Mercaderes (255/300),1000,El Señor de la Challa
+Herrero (225/236),1000,El Señor de la Challa
+Dragones (Aniversario ES 059/334),1000,El Señor de la Challa
+Dragones (CRPB3 021-144),2000,El Señor de la Challa
+Cruz Templaria (LBPB24 25/30),3000,El Señor de la Challa
+Fiesta de Sangre (Festividades24 15/15),1000,El Señor de la Challa
+Ellen Trechend (Festividades24 09/15),3000,El Señor de la Challa
+Amon-Ra (Festividades24 10/15),1000,El Señor de la Challa
+Fiesta Adonia (Festividades24 04/15),1000,El Señor de la Challa
+Sir Osanain (Festividades24 01/15),2000,El Señor de la Challa
+Principe Goblin (Promo Exclusiva PB 05),2000,El Señor de la Challa
+Jack O' The Green (Festividades24 03/15),2000,El Señor de la Challa
+Irgoll (LBPB24 - Foil Lluvia),2000,El Señor de la Challa
+Pryderi (LBPB24 - Foil Lluvia),2000,El Señor de la Challa
+Medusa (LBPB24 - Foil Lluvia),2000,El Señor de la Challa
+Caturix (LBPB24 - Foil Lluvia),3000,El Señor de la Challa
+Aplastar Fomor (LBPB24 - Foil Lluvia),3000,El Señor de la Challa
+Codex Arturicus (Secreta Promo 23),4000,El Señor de la Challa
+Glas Gaibhenenn (PB-03),10000,El Señor de la Challa
+Fe sin Limite (LPB23 014/300),4000,El Señor de la Challa
+Amergin Mac Eccit (Festividades 07/15),3000,El Señor de la Challa
+Draco Conjugador (LBPB24 03/30),3000,El Señor de la Challa
+Duphon (LBPB24 05/30),1500,El Señor de la Challa
+Pixie (LBPB24 06/30 Foil),1500,El Señor de la Challa
+Helenica (Promocional Aniversario HE 1),2000,El Señor de la Challa
+Cochero de Dracula (Festividades24 13/15),2000,El Señor de la Challa
+Carruaje Negro (Festividades24 14/15),2000,El Señor de la Challa
+Legionario (352-334 / Aniversario HE),1000,El Señor de la Challa
+Tag el Druida (Promo Exclusiva PB 07),12000,El Señor de la Challa
+Lig-Na-Paiste (LBPB24 18/30),2000,El Señor de la Challa
+Fiesta de Opet (Festividades24 11/15),1000,El Señor de la Challa
+Adonis (Festividades24 06-15),1000,El Señor de la Challa
+Antheia (Festividades24 05/15),3000,El Señor de la Challa
+Fiesta de Mayo (Festividades24 02/15),1000,El Señor de la Challa
+Goblin Maligno (LBPB24 - Foil Lluvia),3000,El Señor de la Challa
+Ganimides (LBPB24 - Foil Lluvia),4000,El Señor de la Challa
+Sir Lamorak (LBPB24 - Foil Lluvia),6000,El Señor de la Challa
+Espada Larga (Secreta Promo 24),5000,El Señor de la Challa
+Arbol de Sangre (Secreta Promo 28),12000,El Señor de la Challa
+Figuras Negras,12000,El Señor de la Challa
+Alas de Druida (LPB23 032/300),3000,El Señor de la Challa
+Pepi I (PBX-77-80),1000,El Señor de la Challa
+Ogham (Edicion Limitada 20 años),2000,El Señor de la Challa
+Carcel Para El Mal (LPB23 178/300 Foil),1000,El Señor de la Challa
+Fenix (130/334 Aniversario HE),1500,El Señor de la Challa
+Idmon el Adivino (CRPB3 065/144),1500,El Señor de la Challa
+Idmon el Adivino (092/236 Foil),1000,El Señor de la Challa
+Constantino (139/334 Aniversario HE),1000,El Señor de la Challa
+Triton (140/334 Aniversario HE),1000,El Señor de la Challa
+Simon de Montfort (Carta Promo),2000,El Señor de la Challa
+Sir Owen (137/344 Aniversario ES Foil),1000,El Señor de la Challa
+Duendes (AESX 35/36),1500,El Señor de la Challa
+Goblin Maligno (AESX 27-36 Foil),3000,El Señor de la Challa
+Halconero Real (146/334 Aniversario SE Foil),1000,El Señor de la Challa
+Goblin Stone (Foil),4000,El Señor de la Challa
+Cruzada de los Niños (PROMO),2000,El Señor de la Challa
+Flecha Acida (117/236 Foil),1000,El Señor de la Challa
+Misil Magico (116/236 Foil),1000,El Señor de la Challa
+Midyir (LPB23 093/300),1000,El Señor de la Challa
+Cantobele (RW),2000,El Señor de la Challa
+Hera (058/334 Aniversario HE),4000,El Señor de la Challa
+Gladius (096/334 Aniversario HE),4000,El Señor de la Challa
+Espada Necrofaga (101/364 Aniversario HD),1000,El Señor de la Challa
+Ejercito de la Noche (135/364 Aniversario HD),1000,El Señor de la Challa
+Fragarach (054/364 Aniversario HD),5000,El Señor de la Challa
+Ogham (FD),4000,El Señor de la Challa
+Hijos de Daana Oro,2000,El Señor de la Challa
+Extension Tierras Altas Oro,2000,El Señor de la Challa
+Ra_ (LPB 310/300),5000,El Señor de la Challa
+Biblioteca Eterna (Secreta Promo),8000,El Señor de la Challa
+Exilio (020/364 Aniversario HD),5000,El Señor de la Challa
+Midyir (374/364 Aniversario HD),1000,El Señor de la Challa
+Kenneth I (375/364 Aniversario HD),2000,El Señor de la Challa
+Macda Tho (036/364 Aniversario HD),3000,El Señor de la Challa
+Conla (FD),5000,El Señor de la Challa
+Duque Godofredo (Edicion Limitada Racial 002),5000,El Señor de la Challa
+Minas de Gruash (FD),5000,El Señor de la Challa
+Letania (045/384 Aniversario HD),5000,El Señor de la Challa
+Fergus Mor Maceric (015/364 Aniversario HD),6000,El Señor de la Challa
+Espartaco (Secreta Promo),8000,El Señor de la Challa
+Oseye (APB3 13/15),1000,El Señor de la Challa
+Guardia Real (APB3 01/15),3000,El Señor de la Challa
+Wyrm Abismal (APB3 09/15),1000,El Señor de la Challa
+Medusa (APB 06/15),1000,El Señor de la Challa
+Ashrays (APB3 08/15),3000,El Señor de la Challa
+Catach (APB3 02/15),3000,El Señor de la Challa
+Suma (APB3 14/15),2000,El Señor de la Challa
+Cuchulain (APB3 07/15),1000,El Señor de la Challa
+Perseo (APB 05/15),1000,El Señor de la Challa
+Tamis (APB3 11/15),1000,El Señor de la Challa
+Minas de Gruash (APB3 10/15),1000,El Señor de la Challa
+Consumir las Aguas (APB3 12/15),1000,El Señor de la Challa
+Invocar Chacales (APB3 00/15),3000,El Señor de la Challa
+Santuario del Norte,1000,El Señor de la Challa
+Druida de Man (RW),5000,El Señor de la Challa
+Golpear La Raiz (167/364 Aniversario HD) Foil,1000,El Señor de la Challa
+Berserk (093/364 Aniversario HD),5000,El Señor de la Challa
+Duergar (115/364 Aniversario HD),1000,El Señor de la Challa
+Brian O'Grady (125/364 Aniversario HD),1000,El Señor de la Challa
+Vincegeratorix (079/364 Aniversario HD),1000,El Señor de la Challa
+Amergin el Druida (084/364 Aniversario HD),5000,El Señor de la Challa
+Ogma (060/364 Aniversario HD),1000,El Señor de la Challa
+Slaugh (077/364 Aniversario HD),1000,El Señor de la Challa
+Belenos (062/364 Aniversario HD),1000,El Señor de la Challa
+Tier-Na-Moe (149/364 Aniversario HD),1000,El Señor de la Challa
+Orkney (106/364 Aniversario HD),1000,El Señor de la Challa
+Gae Bolga (142/364 Aniversario HD),1000,El Señor de la Challa
+Exilio (LPB23 099/300),1000,El Señor de la Challa
+Despertar Oscuro (089/364 Aniversario HD),1000,El Señor de la Challa
+Derribar Montañas (134/364 Aniversario HD),2000,El Señor de la Challa
+Hijos de Plata (092/364 Aniversario HD),4000,El Señor de la Challa
+Envenenar la Tierra (095/364 Aniversario HD),1000,El Señor de la Challa
+Bran (Carta Promo),1000,El Señor de la Challa
+Bolgos (034/236),1000,El Señor de la Challa
+Arianrhod (064/364 Aniversario HD),1000,El Señor de la Challa
+Bodicea (123/364 Aniversario HD),1000,El Señor de la Challa
+Lanza de Fuego (143/364 Aniversario HD),1000,El Señor de la Challa
+Eriu (010/364 Aniversario HD),8000,El Señor de la Challa
+Fergus Mor Maceric (FD),5000,El Señor de la Challa
+Fergus (FD),6000,El Señor de la Challa
+Balor (FD),5000,El Señor de la Challa
+Avalon (FD),5000,El Señor de la Challa
+Martillo Pesado (FD),6000,El Señor de la Challa
+Ojo Asesino (FD),3000,El Señor de la Challa
+Morir de Pie (FD),5000,El Señor de la Challa
+Caldero de la Abundancia (032/364 Aniversario HD),12000,El Señor de la Challa
+Laegerie (368/364 Aniversario HD),2000,El Señor de la Challa
+Aine (373/364 aniversario HD),2000,El Señor de la Challa
+Conand (371/364 Aniversario HD),3000,El Señor de la Challa
+Unicornio Sidhe (386/364 Aniversario HD),1000,El Señor de la Challa
+Aed Finn (376/364 Aniversario HD),1000,El Señor de la Challa
+Kobold (369/364 Aniversario HD),1000,El Señor de la Challa
+La Serpiente Negra (366/364 Aniversario HD),1000,El Señor de la Challa
+Dianan y Bechulle (377/364 Aniversario HD),2000,El Señor de la Challa
+Tumulario (370/364 Aniversario HD),1000,El Señor de la Challa
+Bocan (367/364 Aniversario HD),1000,El Señor de la Challa
+Totem de la Serpiente (372/364 Aniversario HD),2000,El Señor de la Challa
+Ulster (378/364 Aniversario HD),1000,El Señor de la Challa
+Alesia (379/364 Logo Aniversario),1000,El Señor de la Challa
+Abril Portal (385/364 Aniversario HD),1000,El Señor de la Challa
+Envenenar la Tierra (381/364 Aniversario HD),1000,El Señor de la Challa
+Marmita Druida (387/364 Aniversario HD),5000,El Señor de la Challa
+Druida Oscuro (RW),1000,El Señor de la Challa
+Morrigan (RW),1500,El Señor de la Challa
+Abril Portal (RW),1000,El Señor de la Challa
+Paz entre Hermanos (RW),1000,El Señor de la Challa
+Reunión de Druidas (RW),1000,El Señor de la Challa
+Dracula (DRA 01/20),2000,El Señor de la Challa
+Mananaun (014/236),1000,El Señor de la Challa
+Diancecht (010/236),1000,El Señor de la Challa
+Arabar (274/364),1000,El Señor de la Challa
+Caledonia (271/364),1000,El Señor de la Challa
+Ament (252/364),1000,El Señor de la Challa
+Julio Cesar (APB 06/12),1000,El Señor de la Challa
+Festin (300/300 Foil),1000,El Señor de la Challa
+Cruce Traicionero (Carta Promocional 2 Era),5000,El Señor de la Challa
+Desleal (PBX 14/80),2000,El Señor de la Challa
+Faeries (Edicion Limitada 20 Años),2000,El Señor de la Challa
+Escudo Celestial (Promo Coleccionista 43),8000,El Señor de la Challa
+Qer-Her (Full Art 35/236),4000,El Señor de la Challa
+Bane (Coleccionista LB 02),2000,El Señor de la Challa
+Piedra Roseta (Coleccionista LB 09),3000,El Señor de la Challa
+Sakraham (JO),3000,El Señor de la Challa
+Dendera (Promo Coleccionista 42),4000,El Señor de la Challa
+Fe Sin Limite (Edicion Limitada 20 años),5000,El Señor de la Challa
+Océano (360/334 Aniversario HE),1000,El Señor de la Challa
+Heracles (102/334 Aniversario HE),1500,El Señor de la Challa
+Los Korybantes (CRPB3 070/144),4000,El Señor de la Challa
+Apolo (355/334 Aniversario HE),1500,El Señor de la Challa
+Eneas (CRPB3 071/144),8000,El Señor de la Challa
+Alas de Icaro (PBX 40/80),1000,El Señor de la Challa
+Forma Estelar (LPB23 031/300),3000,El Señor de la Challa
+Federico Barbaroja (PBX 19/80),1000,El Señor de la Challa
+Sir Persival (PBX 13/80),1500,El Señor de la Challa
+Leucrota (015/334 Aniversario HE),8000,El Señor de la Challa
+Ave Ardea (CRPB3 072/144),2000,El Señor de la Challa
+Hoz De Cronos (364/334 Aniversario HE),3000,El Señor de la Challa
+Alejandro Magno (357/364 Aniversario HE),5000,El Señor de la Challa
+Yelmo de Legionario (365/334 Aniversario HE),2000,El Señor de la Challa
+Nike (356/334 Aniversario HE),1500,El Señor de la Challa
+Apolo (101/334 Aniversario HE),1000,El Señor de la Challa
+Aquiles (071/334 Aniversario HE),1000,El Señor de la Challa
+Urano (361/334 Aniversario HE),5000,El Señor de la Challa
+Paris (358/334 Aniversario HE),2000,El Señor de la Challa
+Julio Cesar (011/334 Aniversario HE),7000,El Señor de la Challa
+Guerrero de la Libertad (LPB303/300),5000,El Señor de la Challa
+Guardia Gozosa (LPB23 016/300),5000,El Señor de la Challa
+Jeroglificos (LPB23 007/300),15000,El Señor de la Challa
+Laberinto de Creta (AHEX 36/36),4000,El Señor de la Challa
+Maza de Bronce (AHEX 35/36),1000,El Señor de la Challa
+Arae (AHEX 33-36),1000,El Señor de la Challa
+Tributo Sangriento (AHEX 32/36),1500,El Señor de la Challa
+Bosque de Muerte (AHEX 31/36),1000,El Señor de la Challa
+Procustes (AHEX 29/36),1000,El Señor de la Challa
+Cerda de Cromion (AHEX 28/36),1500,El Señor de la Challa
+Tortuga de Hades (AHEX 27/36),1000,El Señor de la Challa
+Sinis (AHEX 26/36),1500,El Señor de la Challa
+Perifetes (AHEX 25/36),1000,El Señor de la Challa
+Maraton (AHEX 24/36),2000,El Señor de la Challa
+Armas Legadas (AHEX 23/36),1000,El Señor de la Challa
+Camino Hacia Atenas (AHEX 22-36),1500,El Señor de la Challa
+Mar de Almas (AHEX 21-36),1000,El Señor de la Challa
+Velas Negras (AHEX 20/36),2500,El Señor de la Challa
+Duleo Injusto (AHEX 19-36),1000,El Señor de la Challa
+Teseo de Atenas (AHEX 18/36),6000,El Señor de la Challa
+Piritoo (AHEX 17/36),1000,El Señor de la Challa
+Egeo (AHEX 16/36),1000,El Señor de la Challa
+Reina Hipolita (AHEX 15/36),1000,El Señor de la Challa
+Rey Minos (AHEX 14/36),8000,El Señor de la Challa
+Ariadna (AHEX 13/36),1000,El Señor de la Challa
+Teseion (AHEX 12/36),1000,El Señor de la Challa
+Gran Tridente (AHEX 11/36),2000,El Señor de la Challa
+Luz de Poseidon (AHEX 09-36),1000,El Señor de la Challa
+Toro Castigador (AHEX 07 /36),1000,El Señor de la Challa
+"Poseidon, Rey del Mar (AHEX 06/36)",3000,El Señor de la Challa
+Artemis (AHEX 05/36),1000,El Señor de la Challa
+Asclepio (AHEX 04/36),1000,El Señor de la Challa
+Anfitrite (AHEX 03/36),1000,El Señor de la Challa
+Las Bacantes (AHEX 02/36),1000,El Señor de la Challa
+Dionisio Zagreo (AHEX 01/36),8000,El Señor de la Challa
+Hilo de Ariadna (AHEX 10/36),6000,El Señor de la Challa
+Taliesin (035/236),1000,El Señor de la Challa
+Caldero de Corff (CRPB3 108/144),9000,El Señor de la Challa
+Acoris (LPB23 033/300),5000,El Señor de la Challa
+Osiris Ha Muerto (PBX 74/80),2000,El Señor de la Challa
+Menw (AESX 28/36),1500,El Señor de la Challa
+Fuath (AESX 29-36 Foil),1000,El Señor de la Challa
+Pretoriano (339-334 / Aniversario HE),2000,El Señor de la Challa
+Temistocles (338-334 / Aniversario HE),3000,El Señor de la Challa
+El Gran Zeus (APB2 06/15),1000,El Señor de la Challa
+Prometeo (APB2 07/15),1000,El Señor de la Challa
+Espartaco (APB2 02/15),3000,El Señor de la Challa
+Leonidas (APB2 01/15),3000,El Señor de la Challa
+La Ira de Tifon (APB2 10/15),1000,El Señor de la Challa
+Ira Ignea (APB2 11/15),3000,El Señor de la Challa
+Aguila Imperial (299/300),1000,El Señor de la Challa
+El Gran Wyrm (LPB23 130/300),1000,El Señor de la Challa
+Morir de Pie (TK1 05/13),3000,El Señor de la Challa
+Minas de Gruash UR,5000,El Señor de la Challa
+Espada Larga (LPB23 015/300),6000,El Señor de la Challa
+Consumir las aguas (Secreta Promo),8000,El Señor de la Challa
+Red de Plata (Secreta Promo),10000,El Señor de la Challa
+La Traicion de Macalpin (Secreta Promo 09),5000,El Señor de la Challa
+Aceite de Oliva (TK2 01/13),2000,El Señor de la Challa
+Bas-Pef (Edicion Limitada Foil),1000,El Señor de la Challa
+Bran El Bendito (CRPB3 080/144),2000,El Señor de la Challa
+Titanes (CRPB3 057/144),1500,El Señor de la Challa
+Temis (150/334 Aniversario HE),1500,El Señor de la Challa
+Balduino (151/334 Aniversario ES Foil),1000,El Señor de la Challa
+Duque Godofredo (152/334 Aniverdario ES Foil),1000,El Señor de la Challa
+Curandera (153/334 Aniversario ES),1000,El Señor de la Challa
+Bruja Anis (CRPB3 027/144),1500,El Señor de la Challa
+Caballeros (CRPB3 009/144),2000,El Señor de la Challa
+Faeries (CRPB3 033/144),1500,El Señor de la Challa
+Sethnajt (LPB23 126/300),1000,El Señor de la Challa
+Relampago Arcano (LPB23 055/300),3000,El Señor de la Challa
+Zelus (CRPB3 059/144),1500,El Señor de la Challa
+Zagreus (LPB23 061/300),6000,El Señor de la Challa
+Sir Agravain (LPB23 029/300),10000,El Señor de la Challa
+Gente Del Musgo (CRPB3 035/144),2000,El Señor de la Challa
+Melisende (CRPB3 011/144),4000,El Señor de la Challa
+La Traicion de Macalpin (LPB23 020/300),3000,El Señor de la Challa
+Yvain del Leon (Legendario),15000,El Señor de la Challa
+Invocar Chacales UR (LPB23 027/300),3000,El Señor de la Challa
+Fragarach UR,8000,El Señor de la Challa
+Bola de Fuego UR,4000,El Señor de la Challa
+Yvain del Leon (Edicion Limitada Racial 01),5000,El Señor de la Challa
+Duphon (Edicion Limitada Racial 005),3000,El Señor de la Challa
+Draig Ifanc (Edicion Limitada Racial 003),4000,El Señor de la Challa
+Traicion de Bruto (Promo Secreta),7000,El Señor de la Challa
+Manzana Sidhe (LPB23 025/300),3000,El Señor de la Challa
+Pianjy (LPB23 066/300),2000,El Señor de la Challa
+Dakka (270/364),1000,El Señor de la Challa
+Los Titanes (359/334 Aniversario HD),2000,El Señor de la Challa
+Océano (033/236),1000,El Señor de la Challa
+Urano (053/236),1000,El Señor de la Challa
+Totem de Fe (130/334 Aniversario ES),1000,El Señor de la Challa
+Guardia Gozosa (AESX 12/36),5000,El Señor de la Challa
+Aulladores Grises (AESX 31/36),2500,El Señor de la Challa
+Astreo (2003-2021),5000,El Señor de la Challa
+Tifon (CRPB 57/72),1000,El Señor de la Challa
+Aedan Macgabrain (CRPB2 06/72),3000,El Señor de la Challa
+Aine (CRPB2 23-72),3000,El Señor de la Challa
+Slaine (CRPB2 10/72),2000,El Señor de la Challa
+Pryderi (CRPB2 02/72),2000,El Señor de la Challa
+Felipe II (CRPB 03/72),2000,El Señor de la Challa
+Fergus Mor Maceric (CRPB2 04/72),2000,El Señor de la Challa
+Leonidas (CRPB 70/72),4000,El Señor de la Challa
+Rhiannon (CRPB2 22/72),3000,El Señor de la Challa
+Qer-Her (Coleccionista LB 06),3000,El Señor de la Challa
+Titanes (CRPB 60/72),4000,El Señor de la Challa
+Avalon (Secreta Promo),5000,El Señor de la Challa
+Deidades Egipcias (LPB23 172/300),1000,El Señor de la Challa
+Kobol (167/236 Foil),1000,El Señor de la Challa
+Exilio (PBX 59/80),1000,El Señor de la Challa
+Sajones (PBX 54-80 Foil),2000,El Señor de la Challa
+Red de Plata (TKP1 09/15),2000,El Señor de la Challa
+Van Helsing (DRA 02/20),6000,El Señor de la Challa
+Mina Harker (DRA 03/20),1000,El Señor de la Challa
+Sarcófago Santuario (DRA 12/20),3000,El Señor de la Challa
+Demonio de Tara (018/236),1000,El Señor de la Challa
+Vincegeratorix (PBX 57/80),1000,El Señor de la Challa
+Niamh (PBX 42/80),3000,El Señor de la Challa
+Devorador de Almas (016/236),1000,El Señor de la Challa
+Mess Buachalla (LPB23 063/300),1000,El Señor de la Challa
+Ulises (015/236),1000,El Señor de la Challa
+Tartaro (068/236),1000,El Señor de la Challa
+Ambrosia (283/300),1000,El Señor de la Challa
+Jinetes de Fuego (JO),3000,El Señor de la Challa
+Marco Antonio (017/334 Aniversario HE),5000,El Señor de la Challa
+Imperio (Carta Promocional/ 2 Era),2000,El Señor de la Challa
+Capa de Invisibilidad UR,5000,El Señor de la Challa
+Gruagash (PBX 51/80),2000,El Señor de la Challa
+Macda Tho (Edicion Limitada Z 14),1500,El Señor de la Challa
+Cichol Gricenchos (CRPB3 107/144),3000,El Señor de la Challa
+Bean Sidhe (023/236),1000,El Señor de la Challa
+Lig-Na-Paiste (PBX 43/80),1000,El Señor de la Challa
+Brigantia (LPB23 064/300),1000,El Señor de la Challa
+General Corb (023/236),1000,El Señor de la Challa
+Hijos de Lir (043/236),1000,El Señor de la Challa
+Caravana De Los Muertos (TKPB24 24/28),1000,El Señor de la Challa
+Aplastar Fomor (LPB23 050/300),1000,El Señor de la Challa
+Raudo Surcador Marino (044/236),1000,El Señor de la Challa
+Cacería Salvaje (050/236),1000,El Señor de la Challa
+Manzanas de la Vida (056/256),1000,El Señor de la Challa
+Fuego Mágico (046/236),1000,El Señor de la Challa
+Ojo Asesino (041/236),1000,El Señor de la Challa
+Claiohm Solais (PBX 47/80),1000,El Señor de la Challa
+Escudo Batersse (064/236),1000,El Señor de la Challa
+Martillo Pesado (LPB23 100/300),2000,El Señor de la Challa
+Dyrnwyn (PBX 48/80),1000,El Señor de la Challa
+Moy-Mell (PBX-55-80),1000,El Señor de la Challa
+Riastrad (PBX 44/80),1000,El Señor de la Challa
+Corte Seelie (051/236),1000,El Señor de la Challa
+Corte Unseelie (052/236),1000,El Señor de la Challa
+Esna (PBX 73/80),1000,El Señor de la Challa
+Destrozar la Mente (TKPB24 27/28),2000,El Señor de la Challa
+Mentuhotep III (Festividades 10/12),1000,El Señor de la Challa
+Ay (PBX 62/80),1000,El Señor de la Challa
+Sha-Amun-En-Su (Festividades 12/12),1000,El Señor de la Challa
+Guerreros Egipcios (PBX-72-80),2000,El Señor de la Challa
+Alas de Horus (TKP1 11/15),2000,El Señor de la Challa
+Revivir a Osiris (TKPB24 23/28),2000,El Señor de la Challa
+Epimeteo (APB2 09/15),1000,El Señor de la Challa
+Afrodita (CRPB3 042/144),1500,El Señor de la Challa
+Casa de Hestias (136/334 Aniversario HE) Foil,1000,El Señor de la Challa
+Kampe (110/334 Aniversario HE),1000,El Señor de la Challa
+Porfirion (LPB23 123/300),1000,El Señor de la Challa
+Ulises (064/334 Aniversario HE),1000,El Señor de la Challa
+Helenica (APB2 14/15),2000,El Señor de la Challa
+Jabalina (121/334 Aniversario HE),1000,El Señor de la Challa
+Escorpio (PBX 28/80),2000,El Señor de la Challa
+Monte Olimpo (067/236),1000,El Señor de la Challa
+Campos Elisios (069/236 Aniversario HE),1000,El Señor de la Challa
+Micenas (APB2 12/15),1000,El Señor de la Challa
+La Ira de Tifon (LPB23 145/300),1000,El Señor de la Challa
+Doce Pruebas (115/334 Aniversario HE),1000,El Señor de la Challa
+Maldicion de Hera (042/236),1000,El Señor de la Challa
+Olimpiadas (084/334 Aniversario HE),1000,El Señor de la Challa
+Arde Troya (045/236),1000,El Señor de la Challa
+Heroes (CRPB3 069/144),1500,El Señor de la Challa
+"Org, Maestro de Dragones (AESX 15-36)",1500,El Señor de la Challa
+Orium (AESX 16/36),1500,El Señor de la Challa
+Bruja Anis (PBX 12/80),1500,El Señor de la Challa
+GreenKnight (LPB23 174/300 Foil),1000,El Señor de la Challa
+Corte de la Furia (AESX 24-36 Foil),1000,El Señor de la Challa
+Totem de Nwyre (TKP1 03/15 Foil),1500,El Señor de la Challa
+Cuna de Wurms (AESX 20-36 Foil),1000,El Señor de la Challa
+Kilgharrah (AESX 13-36),5000,El Señor de la Challa
+Draig Goch (PBX 02/80),2000,El Señor de la Challa
+Dragon de Luz (PBX 11/80),1000,El Señor de la Challa
+Taliesin (PBX 18/80),1000,El Señor de la Challa
+Dama Encantada (Festividades 03/12),2000,El Señor de la Challa
+Aibell (LPB23 060/300),1000,El Señor de la Challa
+Tom Thumb (PBX 03/80),3000,El Señor de la Challa
+Totem Maldito (129/334 Aniversario ES),1000,El Señor de la Challa
+Arco Montadragon (PBX 08/80),2000,El Señor de la Challa
+Bec de Corbin (PBX 07/80),3500,El Señor de la Challa
+Merlin Atrapado (PBX 06/80),1000,El Señor de la Challa
+Bendicion Siniestra (PBX 04/80),1000,El Señor de la Challa
+Tormenta de Dragon (AESX 19-36),1000,El Señor de la Challa
+Aliento de Luz (AESX 21-36),1000,El Señor de la Challa
+La Espada Rota (PBX 05/80),1000,El Señor de la Challa
+Herrero (PBX 15/80),2000,El Señor de la Challa
+Dragon Nival (Coleccionista LB 01),3000,El Señor de la Challa
+Slaine (DRA 16/20),1000,El Señor de la Challa
+Jonathan Harker,2000,El Señor de la Challa
+Neferura (DRA 13/20),1000,El Señor de la Challa
+Martillo Pesado (Edicion Dracula),2500,El Señor de la Challa
+Estaca y Martillo (DRA 10/20),1000,El Señor de la Challa
+Castillo de Bran (DRA 11/20),1000,El Señor de la Challa
+Plaga (DRA 17/20),1000,El Señor de la Challa
+Manipular la Mente (DRA 08/20),1000,El Señor de la Challa
+Aplastar Formor (DRA 19/20),1000,El Señor de la Challa
+Capa de Invisibilidad (DRA 21/20),2000,El Señor de la Challa
+Forma de Lobo (DRA 09/20),1000,El Señor de la Challa
+Manzana Sidhe (DRA 18/20),2000,El Señor de la Challa
+Avalon (20 años),3000,El Señor de la Challa
+Gaitas 20 años,4000,El Señor de la Challa
+Calzada de Gigantes (PBX 49/80),1000,El Señor de la Challa
+Fiesta de Beltaine (Festividades 08/12),2000,El Señor de la Challa
+Tuthu (Coleccionista LB 07),3000,El Señor de la Challa
+Takelot 20 (Edicion Limitada 20 Años),2000,El Señor de la Challa
+Bilbioteca Eterna (JO),3000,El Señor de la Challa
+Biblioteca Eterna 20 años,3000,El Señor de la Challa
+Menhit (CRPB3 119/144),4000,El Señor de la Challa
+Dendera (Carta Promo),1000,El Señor de la Challa
+Nehebaku (LPB23 125/300),1000,El Señor de la Challa
+Nuh (249/364),4000,El Señor de la Challa
+Neferura (PBX 63/80),1000,El Señor de la Challa
+Maat Eterno (PBX 66/80),2000,El Señor de la Challa
+Fiesta del Valle (Festividades 11/12),2000,El Señor de la Challa
+Condenar al Cruel (PBX 65/80),1000,El Señor de la Challa
+Momificacion (LPB23 168/300),1000,El Señor de la Challa
+Heracles (348-334 / Aniversario HE),2000,El Señor de la Challa
+Atlas (349-334 / Aniversario HE),2000,El Señor de la Challa
+Eos (340-334 / Aniversario HE),1000,El Señor de la Challa
+Orion (JO),3000,El Señor de la Challa
+Coliseo (JO),3000,El Señor de la Challa
+Alas de Icaro (Edicion Limitada 20 años),3000,El Señor de la Challa
+Satiros Libres (354-334 / Aniversario HE),1000,El Señor de la Challa
+Oro Inicial Imperio 2003,3000,El Señor de la Challa
+Epimeteo (143/334 Aniversario HE),1000,El Señor de la Challa
+El Don de Clio (LPB23 180/300) Foil,1000,El Señor de la Challa
+Totem de Fenix (140/236) Foil,1000,El Señor de la Challa
+Polemos (Festividades 06/12),2000,El Señor de la Challa
+Cirene (LPB23 122/300),1000,El Señor de la Challa
+Clio (LPB23 121/300),2000,El Señor de la Challa
+Cimon de Atenas (Festividades 04/12),3000,El Señor de la Challa
+Hoz De Cronos (062/236),1000,El Señor de la Challa
+Xiphos (061/236),1000,El Señor de la Challa
+Casco De Hades (091/334 Aniversario HE),1000,El Señor de la Challa
+Arcadia (123/334 Aniversario HE),1000,El Señor de la Challa
+Fundacion de Thebas (Promocional Aniversario HE 4),2000,El Señor de la Challa
+Ataque de Anibal (099/334 Aniversario HE),1000,El Señor de la Challa
+Almas de Estigia (49/236),1000,El Señor de la Challa
+Vellocino de Oro (052/236),1000,El Señor de la Challa
+Mercaderes (Juego Organizado),3000,El Señor de la Challa
+Guardia Real (Edicion Limitada Foil),2000,El Señor de la Challa
+Colmillo Negro (AESX 22-36 Foil),1000,El Señor de la Challa
+Escudo del Lago (AESX 11-36 Foil),1000,El Señor de la Challa
+Vouivre (AESX 18-36),1500,El Señor de la Challa
+Merlin (AESX 25/36),1000,El Señor de la Challa
+Y Ddraig Aur (LPB23 059/300),1000,El Señor de la Challa
+Dragon Demonio (AESX 14/36),1000,El Señor de la Challa
+Espada Bruja (AESX 34/36),1000,El Señor de la Challa
+Castillo Nevado (Navidad 02),2000,El Señor de la Challa
+Dinas Emrys (PBX 09/80),1000,El Señor de la Challa
+La Llama Fria (PBX 20/80),1000,El Señor de la Challa
+Crear Fungoides (AESX 33/36),1000,El Señor de la Challa
+Purificar El Reino (LPB23 030/300),4000,El Señor de la Challa
+Dragones (LPB23 135/300),1000,El Señor de la Challa
+Titanes (154/334 Aniversario HE),1000,El Señor de la Challa
+Olimpicos (CRPB3 069/144),1500,El Señor de la Challa
+Duphon (CRPB3 029/144),1500,El Señor de la Challa
+Levitar Ciudad (LPB23 179/300 Foil),1000,El Señor de la Challa
+Carga Brigante (LPB23 252/300 Foil),1000,El Señor de la Challa
+Laegerie (LPB23 097/300),1000,El Señor de la Challa
+Regan (LPB23 065/300),1000,El Señor de la Challa
+Morir de Pie (TKP1 05/15),3000,El Señor de la Challa
+Aine UR,5000,El Señor de la Challa
+Lochaber (LPB23 308/300 P),1000,El Señor de la Challa
+Nehmetawy (LPB23 184/300 Foil),1000,El Señor de la Challa
+Pepi I (LPB23 167/300),1000,El Señor de la Challa
+Colosos Hititas (LPB23 116/300),1000,El Señor de la Challa
+Consumir las aguas (LPB23 108/300),1000,El Señor de la Challa
+Resplandor de Heka (LPB23 034/300),10000,El Señor de la Challa
+Apedemak (LPB23 310/300 P),2000,El Señor de la Challa
+Hacha Lunar (LPB23 312/300 P),1000,El Señor de la Challa
+Perses (LPB23 251/300 Foil),1000,El Señor de la Challa
+Pan (170/236 Foil),1000,El Señor de la Challa
+Martillo de Hefestos (TKPB24 13/28),1500,El Señor de la Challa
+Ganimedes (LPB23 062/300),5000,El Señor de la Challa
+Forma De Toro (LPB23 085/300),1000,El Señor de la Challa
+Hidra del Caos (LPB23 304/300 P),1000,El Señor de la Challa
+Fatae (LPB23 305/3008),4000,El Señor de la Challa
+Focea (LPB23 306/300),10000,El Señor de la Challa
+Sir Palamades (LPB23 250/300),1000,El Señor de la Challa
+Pixie (LPB23 175/300 Foil),1000,El Señor de la Challa
+La Velue (LPB23 119/300),1000,El Señor de la Challa
+Sebile (LPB23 120/300),1000,El Señor de la Challa
+Aneirin (LPB23 302/300 P),1000,El Señor de la Challa
+Espada de Caballero (LPB23 303/300 P),1000,El Señor de la Challa
+Producir Terremoto (TKPB24 12/28),1000,El Señor de la Challa
+Aliado Feerico (TKPB24 10/28),1000,El Señor de la Challa
+Toque de Persival (TKPB24 05/28),1000,El Señor de la Challa
+Carnwennan (TKPB24 Edicion Limitada),8000,El Señor de la Challa
+El Castillo Rojo (LPB23 300/300),2000,El Señor de la Challa
+Sir Bedivere (LPB302/300),8000,El Señor de la Challa
+Capa de Invisibilidad (20 años),3500,El Señor de la Challa
+Minas de Gruash (Promo Exclusiva PB 03),3000,El Señor de la Challa
+Fe sin Limite (Edicion Limitada 20 años),5000,El Señor de la Challa
+Irgoll (LPB23 124/300),2000,El Señor de la Challa
+Helenica (LPB23 083/300),1000,El Señor de la Challa
+Totem de la Serpiente (LPB23 177/300 Foil),1000,El Señor de la Challa
+Fuente del Saber (313/364 Foil),1000,El Señor de la Challa
+Escila (CRPB3 055/144),1500,El Señor de la Challa
+Falsa Guinevere (AESX 05/36),1000,El Señor de la Challa
+"Aghast, El Dragon (CRPB3 016/144)",1500,El Señor de la Challa
+Sir Dagonet (AESX 04-36 Foil),1500,El Señor de la Challa
+Favor de la Corte (141/334 Aniversario ES Foil),1000,El Señor de la Challa
+Funeral De Galehaut (AESX 09-36 Foil),1000,El Señor de la Challa
+Cae Nuada (PBX-45-80),1000,El Señor de la Challa
+LLama Marina (PBX 60/80),1000,El Señor de la Challa
+Atlas (074/334 Aniversario HE),2000,El Señor de la Challa
+Esparta (071/236),1000,El Señor de la Challa
+Fiesta de Teseias (Festividades 05/12),1000,El Señor de la Challa
+Termofilas (088/334 Aniversario HE),1000,El Señor de la Challa
+Nacimiento de Pegaso (058/236),1000,El Señor de la Challa
+Dragón del Agua (021/236),1000,El Señor de la Challa
+Reina Guinivere (AESX 02/36),1500,El Señor de la Challa
+Montaraz (AESX 06/36),2000,El Señor de la Challa
+Espada Sagrada (Carta Promocional 2 Era),1000,El Señor de la Challa
+El Circulo Eterno (121/334 Aniversario ES),1000,El Señor de la Challa
+Crear Caballero Negro (AESX 07/36),1000,El Señor de la Challa
+Cruzadas (Carta Promocional 2 Era),2000,El Señor de la Challa
+Nativitas (Festividades 02/12),1000,El Señor de la Challa
+Diarmuid (CRPB2 11/72),2000,El Señor de la Challa
+Totem de la Serpiente (Coleccionista LB 05),3000,El Señor de la Challa
+Kenneth I (CRPB2 03/72),1000,El Señor de la Challa
+Zazamoukh (250/364),1000,El Señor de la Challa
+Templo de la Cazadora (137/334 Aniversario HE),1000,El Señor de la Challa
+Antrapofagos (117/236) Foil,1000,El Señor de la Challa
+Antrapofagos (PBX 34/80),1500,El Señor de la Challa
+Pretoriano (142/334 Aniversario HE),1000,El Señor de la Challa
+Ahmosis el de Fuego (CRPB 53/72),2000,El Señor de la Challa
+Hera (005/236),1000,El Señor de la Challa
+Penelope (023/236),1000,El Señor de la Challa
+Tea (040/236),1000,El Señor de la Challa
+Constantino (PBX 33/80),1500,El Señor de la Challa
+Tridente de los Mares (117/334 Aniversario HE),1000,El Señor de la Challa
+Arco de Apolo (PBX 27/80),1500,El Señor de la Challa
+Columna de Trajano (PBX 29/80),1000,El Señor de la Challa
+Formacion de Tortuga (286/300),1000,El Señor de la Challa
+Augurio (PBX 26/80),2000,El Señor de la Challa
+Traicion de Bruto (PBX 25/80),2500,El Señor de la Challa
+Amor de Zeus (PBX 24/80),2000,El Señor de la Challa
+Marco Antonio (PBX-39-80),1000,El Señor de la Challa
+Pluton (PBX 22/80),2000,El Señor de la Challa
+El Oscuro Hades (PBX 37/80),1000,El Señor de la Challa
+Bruto (PBX-21-80),2000,El Señor de la Challa
+Las Parcas (PBX 23/80),1500,El Señor de la Challa
+Aquiles (027/236),1000,El Señor de la Challa
+Leucrota (PBX 32/80),1500,El Señor de la Challa
+Gaitas (LPB 00),20000,El Señor de la Challa
+Arcas del Imperio (PBX 35/80),1500,El Señor de la Challa
+Mochuelo (PBX 30/80),5000,El Señor de la Challa
+Dragon Dorado (TKP1 01/15),3000,El Señor de la Challa
+Fenrir,1000,El Señor de la Challa
+Brian O Grady (254/364),1000,El Señor de la Challa
+Dewi (239/364),1000,El Señor de la Challa
+Conn (31/236),1000,El Señor de la Challa
+Tethra (025/236),1000,El Señor de la Challa
+Figol el Druida (037/236),2000,El Señor de la Challa
+Cerridwen (241/364),1000,El Señor de la Challa
+Filborgs (020/236),1000,El Señor de la Challa
+Midyir (PBX 56/80),1000,El Señor de la Challa
+Epona (110/364 Aniversario HD),1000,El Señor de la Challa
+Finn Mac Cool (033/236),1000,El Señor de la Challa
+Brigit (LPB23 154/300),1000,El Señor de la Challa
+Gronw Pebyr (245/364),1000,El Señor de la Challa
+Belenos (013/236),1000,El Señor de la Challa
+Angus Og (006/236),1000,El Señor de la Challa
+Tier-Fo-Tonn (070/236),1000,El Señor de la Challa
+Tier-Na-Moe (68/236),1000,El Señor de la Challa
+Ty Newydd (072/236),1000,El Señor de la Challa
+Yelmo Carnivoro (277/364),1000,El Señor de la Challa
+Eclipse (275/364),1000,El Señor de la Challa
+Espada del Abismo (062/236),1000,El Señor de la Challa
+Animar los Elementos (265/364),1000,El Señor de la Challa
+Derribar Montañas (054/236),1000,El Señor de la Challa
+Ejercito de la Noche (256/364),1000,El Señor de la Challa
+Hijos de Plata (259/364),1000,El Señor de la Challa
+Sacrificio (261/364),1000,El Señor de la Challa
+Tifon (029/236),1000,El Señor de la Challa
+Neptuno (242/300),1000,El Señor de la Challa
+Edipo (026/236),1000,El Señor de la Challa
+Aristoteles (017/236),1000,El Señor de la Challa
+Jason (018/236),1000,El Señor de la Challa
+Hiparion (036/236),1000,El Señor de la Challa
+Dafne (019/236),1000,El Señor de la Challa
+Paris (021/236),1000,El Señor de la Challa
+Escudo de Atenea (063/236),1000,El Señor de la Challa
+Templo de Jupiter (276/300),1000,El Señor de la Challa
+Ambrosia (128/334 Aniversario HE),2000,El Señor de la Challa
+Caballo de Troya (046/236),1000,El Señor de la Challa
+Teleute (044/236),1000,El Señor de la Challa
+Misterio de la Esfinge (059/236),1000,El Señor de la Challa
+El Vesubio (285/300),1000,El Señor de la Challa
+Invocar Luz (46/236),1000,El Señor de la Challa
+Geb (011/236),1000,El Señor de la Challa
+Narmer (027/236),1000,El Señor de la Challa
+Amarna (069/236),1000,El Señor de la Challa
+Luxor (073 - 236),1000,El Señor de la Challa
+Lanza de Osiris (063/236),1000,El Señor de la Challa
+Lamento de Isis,1000,El Señor de la Challa
+Barca Dorada (055/236),1000,El Señor de la Challa
+Demonio de Piedra (059/236),1000,El Señor de la Challa
+Flechas de Lava (052/236),1000,El Señor de la Challa
+Venganza (PBX 78/80),1000,El Señor de la Challa
+Denwen (54/236),1000,El Señor de la Challa
+Purificar Escencias (057/236),1000,El Señor de la Challa
+Juicio a los Muertos (046/236),4000,El Señor de la Challa
+Bernardo de Clairvaux (136/334 Aniversario ES),1000,El Señor de la Challa
+Necropolis Popular (355/364 Foil),1000,El Señor de la Challa
+Mineros del Lapizlasuli (Foil),1000,El Señor de la Challa
+Envenenar la Tierra (Sin Foil),1000,El Señor de la Challa
+Despertar Oscuro (TKP1 13/15),2000,El Señor de la Challa
+Hacha de Batalla (TKP2 08/15 Foil),1500,El Señor de la Challa
+Aine (JO),3000,El Señor de la Challa
+Red de Plata (JO),3000,El Señor de la Challa
+Minas de Gruash (Edicion Limitada 20 años),4000,El Señor de la Challa
+Carro Celta (Edicion Limitada 20 años),2000,El Señor de la Challa
+Moy-Mell JO,3000,El Señor de la Challa
+Carmix (Edicion Limitada 20 Años),2000,El Señor de la Challa
+La Traicion de Macalpin (TK1 10/13),2000,El Señor de la Challa
+Capa de Invisibilidad Coleccionista,3000,El Señor de la Challa
+Joyero (144/334 Aniversario ES Foil),1000,El Señor de la Challa
+Ataque a Traicion (154/334 Aniversario ES Foil),1000,El Señor de la Challa
+Horda Fomore 3.0,1000,El Señor de la Challa
+Mogons (240-364),2000,El Señor de la Challa
+Forma de Cuervo (PBX 46/80),1000,El Señor de la Challa
+Arenas en Fuego (044/236),1000,El Señor de la Challa
+Eos (PBX 36/60),1000,El Señor de la Challa
+Guerrero de la Libertad (Carta Promo),5000,El Señor de la Challa
+Draco Conjurador (LPB23 173/300),1000,El Señor de la Challa
+Nimue (AESX 30/36),2000,El Señor de la Challa
+Pedro el Ermitaño (134/334 Aniversario ES),1000,El Señor de la Challa
+Federico Barbaroja (238/300),1000,El Señor de la Challa
+Torre de Campaña (241/300),1000,El Señor de la Challa
+Espada Dragon (127/334 Aniversario SE),1000,El Señor de la Challa
+La Lanza de los Dioses (125/234 Aniversario ES),1000,El Señor de la Challa
+Malla de Mitril (124/334 Aniversario ES),1000,El Señor de la Challa
+Totem de Runa Elficas (131/334 Aniversario ES),1000,El Señor de la Challa
+Stonehage (128/334 Aniversario ES),1000,El Señor de la Challa
+Totem de la Ultima Cancion (64/236),1000,El Señor de la Challa
+Jerusalen (244/300),1000,El Señor de la Challa
+La Espada en la Piedra (Aniversario ES 098/334),1000,El Señor de la Challa
+Fantasmas del Desierto (133/334 Aniversario ES),1000,El Señor de la Challa
+Dragon Demonio 015/334 ES,1000,El Señor de la Challa
+Morgana (039/334 Aniversario ES),1000,El Señor de la Challa
+Aed (066-364),1000,El Señor de la Challa
+Escudo de la Tormenta (277/364),1000,El Señor de la Challa
+Traicion de Seth (LPB23 115/300),1000,El Señor de la Challa
+Micenas (TKP1 08/15),1500,El Señor de la Challa
+Woodhage (065/256),1000,El Señor de la Challa
+Armadura del Sol (126/334 Aniversario ES),1000,El Señor de la Challa
+Espada de Cristal (068/236),1000,El Señor de la Challa
+Arca de la Alianza (243/300),1000,El Señor de la Challa
+Juramento Feerico (062/334 Aniversario ES),1000,El Señor de la Challa
+Ptolomeo III (CRPB3 127/144),2000,El Señor de la Challa
+Escribano (CRPB3 055/144 Foil),2000,El Señor de la Challa
+Amosis I (31/85 Leyendas PB),2000,El Señor de la Challa
+Ahmosis el de Fuego (CRPB3 041/144 Foil),2000,El Señor de la Challa
+Tamis (087/236 Foil),1000,El Señor de la Challa
+Guerreros Egipcios (166/236 Foil),1000,El Señor de la Challa
+Grandes Faraones (CRPB3 129/144),1500,El Señor de la Challa
+Pryderi (PBX 52/80),3000,El Señor de la Challa
+Aed Finn (161/364 Aniversario HD Foil),1000,El Señor de la Challa
+Aife (CRPB3 092/144 Foil),2000,El Señor de la Challa
+Cuchulain (LPB23 149/300),1000,El Señor de la Challa
+Capa de Invisibilidad (TKP2 13/15),2000,El Señor de la Challa
+Bilblioteca Eterna (279/364),1000,El Señor de la Challa
+Revivir a Osiris (TKP2 30/15),2000,El Señor de la Challa
+Letania (Carta Promo),3000,El Señor de la Challa
+Arbol de Sangre (CRPB3 096/144),7000,El Señor de la Challa
+Principe Djedi (CRPB3 143/144),2000,El Señor de la Challa
+Carnero de Kush (CRPB3 132/144),5000,El Señor de la Challa
+Necho I (CRPB3 047/144),8000,El Señor de la Challa
+Tanutamani (CRPB3 046/144),5000,El Señor de la Challa
+Rito de Aton (CRPB3 141/144),3000,El Señor de la Challa
+Goildel Glas (CRPB3 083/144),2000,El Señor de la Challa
+Piel de Lobo (CRPB3 084/144),8000,El Señor de la Challa
+Artio (CRPB3 095-144),2000,El Señor de la Challa
+Caturix (CRPB3 022/144),5000,El Señor de la Challa
+Boobrie (CRPB3-088-144 Foil),2000,El Señor de la Challa
+Conla (22/85 Leyendas PB),1000,El Señor de la Challa
+Linaje Celta (LPB23 163/300),1000,El Señor de la Challa
+Boobrie (Edicion Limitada Racial 13),3000,El Señor de la Challa
+Amosis I (Edicion Limitada Racial 22),5000,El Señor de la Challa
+Slaine (Edicion Limitada Racial 13),3000,El Señor de la Challa
+Takelot (Edicion Limitada Racial 23),3000,El Señor de la Challa
+Rhiannon (Edicion Limitada Racial 16),4000,El Señor de la Challa
+Espada Larga (TKP2 06/15),3500,El Señor de la Challa
+Eriu (24/85 Leyendas PB),1000,El Señor de la Challa
+Invocar Chacales (261/364),2000,El Señor de la Challa
+Aton (Juego Organizado),4000,El Señor de la Challa
+Dragon Nival (139/334 Aniversario ES Foil),1000,El Señor de la Challa
+Bruja Anis (104/236 Foil),1000,El Señor de la Challa
+Org el Hechicero (138/344 Aniversario ES Foil),1000,El Señor de la Challa
+Zorro de Fuego (152/364 Aniversario HD Foil),1000,El Señor de la Challa
+Borrar Memoria,1000,El Señor de la Challa
+Slaine (72/85 Leyendas PB),1000,El Señor de la Challa
+Aine (68/85 Leyendas PB),2000,El Señor de la Challa
+Oseye (245/364),1000,El Señor de la Challa
+Haquika (244/364),1000,El Señor de la Challa
+Qadesh (046/236),1000,El Señor de la Challa
+Deidades Egipcias (79/85 Leyendas PB),1000,El Señor de la Challa
+Jeroglíficos (LPB23 058/300),5000,El Señor de la Challa
+Escudo de Perseo (039/085 Leyendas PB),1000,El Señor de la Challa
+Jacques de Molay (254/300),1000,El Señor de la Challa
+Draig Ifanc (LPB23 072/300),2000,El Señor de la Challa
+Nimue (15/85 Leyendas PB),1000,El Señor de la Challa
+Bola de Fuego (44/236),3000,El Señor de la Challa
+Mercaderes (LPB23 134/300),1000,El Señor de la Challa
+Fergus (032/236),1000,El Señor de la Challa
+Carro Celta (063/236),1000,El Señor de la Challa
+Perseo (CRPB3-068-144),3500,El Señor de la Challa
+Sir Balin (50/80 Leyendas PB),1000,El Señor de la Challa
+Oseye (Legendaria),15000,El Señor de la Challa
+Inti Set Retro,1000,El Señor de la Challa
+Malocchio Set Retro MyL,2000,El Señor de la Challa
+Helios Set Retro,1500,El Señor de la Challa
+Biblioteca Eterna Set Retro,1500,El Señor de la Challa
+Raza de Pigmeos (Full Art 116),3000,El Señor de la Challa
+Haquika (Full Art 244/364),3000,El Señor de la Challa
+Mago Merlin (CRPB 29/72),2000,El Señor de la Challa
+Lailoken (CRPB 34/72),2000,El Señor de la Challa
+Titania (CRPB 33/72),2000,El Señor de la Challa
+Ettin (CRPB 32/72),2000,El Señor de la Challa
+Bellial el Bestial (CRPB 31/72),1500,El Señor de la Challa
+Gaia (CRPB 41/72),2000,El Señor de la Challa
+Leucrota (CRPB 51/72),2000,El Señor de la Challa
+Heosforo (CRPB 47/72),3000,El Señor de la Challa
+Crio (CRPB 58/72),2000,El Señor de la Challa
+Hector (CRPB-69-72),1000,El Señor de la Challa
+Atlante (CRPB 49/72),3000,El Señor de la Challa
+Gladiador (CRPB 67/72),1500,El Señor de la Challa
+Marco Antonio (CRPB 61/72),2000,El Señor de la Challa
+Eolo (CRPB 45/72),2000,El Señor de la Challa
+Cronos (CRPB 55/72),1000,El Señor de la Challa
+Tutatis (CRPB2 18/72),2000,El Señor de la Challa
+Prometeo (CRPB 50/72),1000,El Señor de la Challa
+Herrero (Kit Racial),2000,El Señor de la Challa
+Epona (CRPB2 21/72),2000,El Señor de la Challa
+Temis (CRPB 59/72),4000,El Señor de la Challa
+Boobrie (CRPB2 19-72),2000,El Señor de la Challa
+Macda Tho (CRPB2 15/72),2000,El Señor de la Challa
+Guiza (Full Art 067/236),3000,El Señor de la Challa
+Guiza (Carta Dorada),4000,El Señor de la Challa
+Noctumbros (CRPB 53/72),2000,El Señor de la Challa
+Lugh (Full Art 07),3000,El Señor de la Challa
+Epimeteo (CRPB 52/72),2000,El Señor de la Challa
+Macha (CRPB2 20-72),2000,El Señor de la Challa
+Las Erinias (249/300 Foil),1000,El Señor de la Challa
+Wyrm Abismal (LPB23 157/300),1000,El Señor de la Challa
+Pwyll,1000,El Señor de la Challa
+Daana (001/236),1000,El Señor de la Challa
+Caldero de la Abundancia (048/236),3000,El Señor de la Challa
+Seth (006/236),1000,El Señor de la Challa
+Suma (040/236),1000,El Señor de la Challa
+Takelot (034/236),1000,El Señor de la Challa
+Vuelta a lo Primordial (262/364),1000,El Señor de la Challa
+Tuthu (036/236),1000,El Señor de la Challa
+Toque de Percival (LPB23 075/300),1000,El Señor de la Challa
+Sir Robin De Lockesley (LPB23 068/300),1000,El Señor de la Challa
+Sakraham (062/236),1000,El Señor de la Challa
+Pryderi (LPB23 089/300),1000,El Señor de la Challa
+Ojo Udyai (LPB23 171/300),1000,El Señor de la Challa
+Morgana (032/236),1000,El Señor de la Challa
+Maquinaria de Guerra (237/300),1000,El Señor de la Challa
+Leucrota (243/300),1000,El Señor de la Challa
+Jinetes de Fuego (053/236),2000,El Señor de la Challa
+Fragarach (40/85 Leyendas PB),5000,El Señor de la Challa
+Faeries,1000,El Señor de la Challa
+Erastostenes (32/85 Leyendas PB),1000,El Señor de la Challa
+Each Usige (39/236),1000,El Señor de la Challa
+Dragon De Plata (022/236),1000,El Señor de la Challa
+Curandera (291/300 Foil),1000,El Señor de la Challa
+Claymore (240/300),1000,El Señor de la Challa
+Bola de Energia (LPB23 158/300),1000,El Señor de la Challa
+Atlantida (LPB23 086/300),1000,El Señor de la Challa
+Amenofis III (80/85 Leyendas PB),1000,El Señor de la Challa
+Raza de Pigmeo (116/236) Foil,1000,El Señor de la Challa
+Balor (LPB23 095/300),1000,El Señor de la Challa
+Fergus Mor Maceric (251/364),1000,El Señor de la Challa
+Totem del Leon (270/364),1000,El Señor de la Challa
+Leon Blanco (268/364),1000,El Señor de la Challa
+Cleopatra VII (237/364),2000,El Señor de la Challa
+Kabasha (269/364),1000,El Señor de la Challa
+Vouivre (13/85 Leyendas PB),2000,El Señor de la Challa
+Tocador (280/364),2000,El Señor de la Challa
+Sir Persival (005/236),1000,El Señor de la Challa
+Seti (020/236),1000,El Señor de la Challa
+Sajones (164/364 Aniversario HD Foil),1000,El Señor de la Challa
+Prometeo (LPB23 142/300),1000,El Señor de la Challa
+Ogham (LPB23 162/300),1000,El Señor de la Challa
+Mordred (031/236),1000,El Señor de la Challa
+Mago Merlin (30/236),1000,El Señor de la Challa
+Lady Dawn (009/236),1000,El Señor de la Challa
+Kernuac el Cazador (025/236),1000,El Señor de la Challa
+Jano (241/300),1000,El Señor de la Challa
+Hogar de Demonios (056/236),1000,El Señor de la Challa
+Helios (LPB23 078/300),1000,El Señor de la Challa
+El Gran Zeus (004/236),1000,El Señor de la Challa
+Excalibur (067/236),1000,El Señor de la Challa
+Duque Godofredo (012/334 Aniversario ES Foil),1500,El Señor de la Challa
+Dragon de Magma (016/236),1000,El Señor de la Challa
+Cuna de Dragones (048/236),1000,El Señor de la Challa
+Criatura Familiar (57/85 Leyendas PB),2000,El Señor de la Challa
+Chike de la Sombra (Edicion Limitada Foil),1000,El Señor de la Challa
+Carmix (290/364),1000,El Señor de la Challa
+Bandidos Pictos (168/236 Foil),1000,El Señor de la Challa
+Arcas del Imperio (298/300 Foil),1000,El Señor de la Challa
+Alto Druida (036/236),1000,El Señor de la Challa
+Atlante (263/300 Foil),1000,El Señor de la Challa
+Conand (27/85 Leyendas PB),4000,El Señor de la Challa
+Gruagash (LPB23 096/300),1000,El Señor de la Challa
+Tier-Na-Oge (067/236),1000,El Señor de la Challa
+Manzana Sidhe (48/85 Leyendas PB),4000,El Señor de la Challa
+Tutankamon (021/236),1000,El Señor de la Challa
+Isis (010/236),1000,El Señor de la Challa
+Qer-Her (LPB23 106/300),1000,El Señor de la Challa
+Escudo Celestial (LPB23 056/300),5000,El Señor de la Challa
+Titania (029/236),1000,El Señor de la Challa
+Romulo y Remo (282/300),3000,El Señor de la Challa
+Rea (030/236),1000,El Señor de la Challa
+Principe Valiant (008/236),1000,El Señor de la Challa
+Ofrenda a los Dioses (221/238),1000,El Señor de la Challa
+Maahes (28/85 Leyendas PB),1000,El Señor de la Challa
+Leonidas (65/85 Leyendas PB),2000,El Señor de la Challa
+La Traicion de Macalpin (252/364),1000,El Señor de la Challa
+Kenneth I (257/364),1000,El Señor de la Challa
+Ira Ignea (LPB23 144/300),1000,El Señor de la Challa
+Eolo (003/236),1000,El Señor de la Challa
+Duphon (14/85 Leyendas PB),1000,El Señor de la Challa
+Dragon de Luz (LPB23 071/300),1000,El Señor de la Challa
+Cria de Wyrm (53/85 Leyendas PB),1500,El Señor de la Challa
+Cesar Augusto (LPB23 141/300),1000,El Señor de la Challa
+Cadena Espiritual (258/364),1000,El Señor de la Challa
+Biblioteca Eterna (Legendaria),10000,El Señor de la Challa
+Atenea (011/236),1000,El Señor de la Challa
+Aliento de Anubis (058/236),1000,El Señor de la Challa
+Totem de Nwyre (138/236 Foil),1000,El Señor de la Challa
+Bridei (250/364),1000,El Señor de la Challa
+Pais sin Luz (071/236),1000,El Señor de la Challa
+Linaje Celta (CRPB3 083/144),2000,El Señor de la Challa
+Marco Antonio (240/364),2000,El Señor de la Challa
+Anhur (78/85 Leyendas PB),1000,El Señor de la Challa
+Neferite I (242/364),1000,El Señor de la Challa
+Mandoble de Horus (273/364),1000,El Señor de la Challa
+Los Titanes (029/236),1000,El Señor de la Challa
+Tartaro (093/334 Aniversario HE),5000,El Señor de la Challa
+Ricardo Corazon de Leon (237/300),1000,El Señor de la Challa
+Poseidon (006/236),1000,El Señor de la Challa
+Osiris Ha Muerto (LPB23 113/300),1000,El Señor de la Challa
+Oberon (028/236),1000,El Señor de la Challa
+Ma`arrat An-Numan (251/300),1000,El Señor de la Challa
+La Traicion de Lancelot (042/236),1000,El Señor de la Challa
+Gladius (266/300),1000,El Señor de la Challa
+Festin Impio (259/364),1000,El Señor de la Challa
+Espartaco (238/300),1000,El Señor de la Challa
+Ellyllon (040/236),1000,El Señor de la Challa
+Duelo Maldito (36/85 Leyendas PB),1000,El Señor de la Challa
+Dragon de Eter (017/236),1000,El Señor de la Challa
+Desleal (043/236),2000,El Señor de la Challa
+Cathach (LPB23 073/300),1000,El Señor de la Challa
+Caballo Lunar (059/236),1000,El Señor de la Challa
+Balduino (CRPB3 003/144),1500,El Señor de la Challa
+Atenas (070/236),1000,El Señor de la Challa
+Anubis (008/236),1000,El Señor de la Challa
+Rey Pescador (10/85 Leyendas PB),1000,El Señor de la Challa
+Aedan Macgabrain (252/364),1000,El Señor de la Challa
+Macda Tho (LPB23 092/300),1000,El Señor de la Challa
+Moy-Mell (069/236),1000,El Señor de la Challa
+Cleomenes de Naukratis (239/364),1000,El Señor de la Challa
+Akenathon (015/236),1000,El Señor de la Challa
+Baal - Zaphon (254/364),3000,El Señor de la Challa
+Hacha Guardiana (276/364),1000,El Señor de la Challa
+Transmutacion (045/236),1000,El Señor de la Challa
+Thanatos (LPB23 137/300),1000,El Señor de la Challa
+Sir Gawein (004/236),1000,El Señor de la Challa
+Rayos (043/236),1000,El Señor de la Challa
+Polux (025/236),1000,El Señor de la Challa
+Orion (66/85 Leyendas PB),1000,El Señor de la Challa
+Micerinos (025/236),1000,El Señor de la Challa
+La Mirada de Modred (116/334 Aniversario ES),1000,El Señor de la Challa
+Jupiter (240/300),1000,El Señor de la Challa
+Imoteph (028/236),1000,El Señor de la Challa
+Duat (45/85 Leyendas PB),1000,El Señor de la Challa
+Dragon de Bronce (024/236),1000,El Señor de la Challa
+Delfos (43/85 Leyendas PB),1000,El Señor de la Challa
+Cuatro Aceros (264/364),1000,El Señor de la Challa
+Cornelius de York (012/236),1000,El Señor de la Challa
+Castor (024/236),1000,El Señor de la Challa
+Ave de Hera (47/85 Leyendas PB),2000,El Señor de la Challa
+Alejandro Magno (022/236),1000,El Señor de la Challa
+"Aghast, El Dragon (148/334 Aniversario ES Foil)",1000,El Señor de la Challa
+Hacha de Batalla (Edicion Limitada 20 Años),2000,El Señor de la Challa
+Cruzada de los Niños (145/334 Aniversario ES),1000,El Señor de la Challa
+Macha (237/364),1000,El Señor de la Challa
+Dianan y Bechulle (LPB23 150/300),1000,El Señor de la Challa
+Avalon (LPB23 102/300),1000,El Señor de la Challa
+Ramses II (017/236),1000,El Señor de la Challa
+Bastet (009/236),1000,El Señor de la Challa
+Oraculo de Botu (253/364),1000,El Señor de la Challa
+Kom Ombo (272/364),1000,El Señor de la Challa
+Yvain del Leon (LPB23 038/300),3000,El Señor de la Challa
+Sir Galahad (007/236),1000,El Señor de la Challa
+Sedienta (274/364),1000,El Señor de la Challa
+Rhiannon (69/85 Leyendas PB Foil),1000,El Señor de la Challa
+Puck (038/236),1000,El Señor de la Challa
+Plaga (041/236),1000,El Señor de la Challa
+Orfeo (020/236),1000,El Señor de la Challa
+Nut (012/236),1000,El Señor de la Challa
+Mesa Redonda (205/235),2000,El Señor de la Challa
+Las Tres Hermanas (036/236),1000,El Señor de la Challa
+La Iliada (224/236),1000,El Señor de la Challa
+Imentet (77/85 Leyendas PB Foil),1000,El Señor de la Challa
+Gitanos (249/300),1000,El Señor de la Challa
+Dragones (55/85 Leyendas PB),1000,El Señor de la Challa
+Dragon de Aire (020/236),1000,El Señor de la Challa
+Cruz Templaria (LPB23 040/300),2000,El Señor de la Challa
+Bengay (246/364),1000,El Señor de la Challa
+Aullidos de Furia (260/364),1000,El Señor de la Challa
+Antorcha Olimpica (229/236),1000,El Señor de la Challa
+Alejandro II (241/364),1000,El Señor de la Challa
+Gaitas (279/364),5000,El Señor de la Challa
+La Serpiente Roja (249/364),1000,El Señor de la Challa
+Mathgen el Mago (036/236),1000,El Señor de la Challa
+Levantar a los Muertos (LPB23 159/300),1000,El Señor de la Challa
+Demoledor de Amon (247/364),1000,El Señor de la Challa
+Aker (251/364),1000,El Señor de la Challa
+Guiza (067/236),1000,El Señor de la Challa
+Yelmo Alejandrino (277/364),1000,El Señor de la Challa
+Urisk (130/236 Foil),1000,El Señor de la Challa
+Teseo (016/236),1000,El Señor de la Challa
+Sir Boores (LPB23 128/300),1000,El Señor de la Challa
+Rey Arturo Pendragon (001/236),1000,El Señor de la Challa
+Noctumbros (038/236),1000,El Señor de la Challa
+Medusa (20/85 Leyendas PB),3000,El Señor de la Challa
+La Dama del Lago (034/236),1000,El Señor de la Challa
+Julio Cesar (237/300),1000,El Señor de la Challa
+Guardia Real (147/334 Aniversario ES Foil),1000,El Señor de la Challa
+Gaia (001/236),2000,El Señor de la Challa
+Felipe II (239/300),1000,El Señor de la Challa
+El Poeta (037/236),1000,El Señor de la Challa
+Dragon Nube (026/236),1000,El Señor de la Challa
+Dario el Grande (243/364),1000,El Señor de la Challa
+Cronos (032/236),1000,El Señor de la Challa
+Coliseo (LPB23 087/300),1000,El Señor de la Challa
+Belial el Bestial (033/236),1000,El Señor de la Challa
+Aulladores Blancos (54/236),1000,El Señor de la Challa
+Ataque de Aliento (055/236),1000,El Señor de la Challa
+Tutatis (LPB23 155/300),1000,El Señor de la Challa
+Math (242/364),1000,El Señor de la Challa
+Despetar (260/364),1000,El Señor de la Challa
+Reshep (256/364),1000,El Señor de la Challa
+Bahiti (029/236),1000,El Señor de la Challa
+Mafedet (LPB23 165/300),1000,El Señor de la Challa
+Islas Filas (268/364),1000,El Señor de la Challa
+Una (051/236),1000,El Señor de la Challa
+Sonriente (247/364),1000,El Señor de la Challa
+Sir Bedivere (014/236),1500,El Señor de la Challa
+Santo Grial (LPB23 074/300),1000,El Señor de la Challa
+Reina Guinivere (LPB23 127/300),1000,El Señor de la Challa
+Pinedyem I (83/85 Leyendas PB),1000,El Señor de la Challa
+Herrero (LPB23 076/300),1000,El Señor de la Challa
+Guardia Gozosa (42/85 Leyendas PB),2000,El Señor de la Challa
+Fe sin Limite (046/236),5000,El Señor de la Challa
+El Obispo de Londinium (010/236),1000,El Señor de la Challa
+Dragon Dorado (047/236),3000,El Señor de la Challa
+Dragon Cobrizo (23/236),3000,El Señor de la Challa
+Codex Arturicus (LPB23 133/300),1000,El Señor de la Challa
+Capa de Invisibilidad (52/236),2000,El Señor de la Challa
+Bran El Bendito (23/85 Leyendas PB Foil),1000,El Señor de la Challa
+Basoon (027/236),1000,El Señor de la Challa
+Alas de Icaro (054/236),1000,El Señor de la Challa
+Adios Belleza (LPB23 114/300),1000,El Señor de la Challa
+Sehetepibre (LBPB24 20/30),2000,El Señor de la Challa
+Lugh (007/236),1000,El Señor de la Challa
+La Serpiente Negra (248/364),1000,El Señor de la Challa
+Oengus (244/364),1000,El Señor de la Challa
+Despertar Oscuro (047/236),1000,El Señor de la Challa
+Apophis (005/236),1000,El Señor de la Challa
+Shay (257/364),1000,El Señor de la Challa
+Wadi - El Sabua (271/364),1000,El Señor de la Challa
+Ulster (269/364),1000,El Señor de la Challa
+Sir Tristan (006/236),1000,El Señor de la Challa
+Saladino (242/236),2000,El Señor de la Challa
+Red de Plata (312/364 Foil),1000,El Señor de la Challa
+Ptah (LPB23 164/300),1000,El Señor de la Challa
+Levantar Castillo (163/364 Aniversario HD Foil),1000,El Señor de la Challa
+Lanza de la Victoria (61/236),1000,El Señor de la Challa
+Kiya (037/236),1000,El Señor de la Challa
+Josofones (013/236),1000,El Señor de la Challa
+Horus (004/236),1000,El Señor de la Challa
+Eros (013/236),1000,El Señor de la Challa
+El Gran Wyrm (015/236),1000,El Señor de la Challa
+Dragon Demonio (018/236),1000,El Señor de la Challa
+Crom Cruach (26/85 Leyendas PB Foil),1000,El Señor de la Challa
+Cobra de Cripta (264/364),1000,El Señor de la Challa
+Caoranach (74/85 Leyendas PB),1000,El Señor de la Challa
+Barco (58/236),1000,El Señor de la Challa
+Aton (LPB23 111/300),1000,El Señor de la Challa
+Astreo (59/85 Leyendas PB),1000,El Señor de la Challa
+Amon (001/236),1000,El Señor de la Challa
+Alas de Horus (LPB23 112/300),1000,El Señor de la Challa
+Mogones (066/364 Aniversario HD),1000,El Señor de la Challa
+Duendes (150/334 Aniversario ES Foil),1000,El Señor de la Challa
+Atraer La Tormenta (086/334 Aniversario ES),1000,El Señor de la Challa
+Balor (Edicion Limitada Z 11),2000,El Señor de la Challa
+Martillo Pesado (TK1 06/13),2500,El Señor de la Challa
+Red de Plata (TK1 09/13),2000,El Señor de la Challa
+Ptah (CRPB2 39/72),2000,El Señor de la Challa
+Baal-Zaphon (Promo Coleccionista 45),8000,El Señor de la Challa
+Saladino (Promo Coleccionista 25),8000,El Señor de la Challa
+Dragon Nival (Arte Alternativo),2000,El Señor de la Challa
+La Iliada (Logo Aniversario),2000,El Señor de la Challa
+Sonriente (Arte Alternativo),1000,El Señor de la Challa
+Merenptah,2000,El Señor de la Challa
+Minotauro de Cartago (Promo Exclusiva PB 06),7000,El Señor de la Challa
+Kilgharrah (LBPB24 - Foil Lluvia),7000,El Señor de la Challa
+Qadesh (Foil Lluvia),2000,El Señor de la Challa
+Tunatamani (Foil Lluvia),5000,El Señor de la Challa
+Ptah (LBPB24 - Foil Lluvia),3000,El Señor de la Challa
+Homunculus (RW),3000,El Señor de la Challa
+Perseo UR,10000,El Señor de la Challa
+Caoranach (016/364 Aniversario HD),5000,El Señor de la Challa
+Fé Sin Limite (Arte Shogun),3000,El Señor de la Challa
+Fragarach (Arte Shogun),4000,El Señor de la Challa
+Averix el Sabio (RW),8000,El Señor de la Challa
+General Corb (RW),2000,El Señor de la Challa
+Dewi (RW),3000,El Señor de la Challa
+El Dagda Mor (RW),2500,El Señor de la Challa
+Manzanas de la Vida (RW),5000,El Señor de la Challa
+Raudo Surcador Marino (RW),3000,El Señor de la Challa
+Maldición de Daanan,1000,El Señor de la Challa
+Amergin el Druida (Logo Aniversario),10000,El Señor de la Challa
+Guerrero Fianna (Logo Aniversario),2500,El Señor de la Challa
+Slaugh (Logo Aniversario),3000,El Señor de la Challa
+Cathbadh el Druida (RW),1000,El Señor de la Challa
+Totem Salvaje (RW),1000,El Señor de la Challa
+Las Tres Olas (RW),1500,El Señor de la Challa
+Heroes 2.0 (Foil),1000,El Señor de la Challa
+Dragon de Magma (Arte Alternativo),1500,El Señor de la Challa
+Morgana (Arte Alternativo),2000,El Señor de la Challa
+Mercaderes (Arte Alternativo),2000,El Señor de la Challa
+Bec de Corbin (Promo Secreta),6000,El Señor de la Challa
+Toque de Persival (Carta Dorada),5000,El Señor de la Challa
+Rito de Aton (Promo Colecionista),3000,El Señor de la Challa
+Relampago Arcano (Campeon Primer Bloque),5000,El Señor de la Challa
+Fe sin Limites Promocional,5000,El Señor de la Challa
+Eter,5000,El Señor de la Challa
+Hemera,5000,El Señor de la Challa
+Panteon (Full Art),10000,El Señor de la Challa
+Corona del Dia,8000,El Señor de la Challa
+La Odisea (AHE),13000,El Señor de la Challa
+Condenados al Tartaro,1000,El Señor de la Challa
+Minotauro,4000,El Señor de la Challa
+Locura de Amor,2000,El Señor de la Challa
+Nemty,3000,El Señor de la Challa
+Idmon el Adivino (Arte Shogun),3000,El Señor de la Challa
+Alquimista,5000,El Señor de la Challa
+Caldero de la Abundancia (Logo Edicion),2000,El Señor de la Challa
+Jinetes de Fuego (Arte Black),2000,El Señor de la Challa
+Red de Plata UR,5000,El Señor de la Challa
+Romulo y Remo (Legendario Plateado),10000,El Señor de la Challa
+Liontari,5000,El Señor de la Challa
+Trono Dorado,8000,El Señor de la Challa
+Zaratan,5000,El Señor de la Challa
+Hugues De Payens,5000,El Señor de la Challa
+Reina Merrow (CRPB3 034/144),3000,El Señor de la Challa
+Lambton Worm,5000,El Señor de la Challa
+Boveda Templaria,7000,El Señor de la Challa
+Tesoro de Mowa,7000,El Señor de la Challa
+Diadema Feerica,8000,El Señor de la Challa
+Temis (Full Art),3000,El Señor de la Challa
+Vouivre UR,10000,El Señor de la Challa
+Mercaderes (Secreta Promo),5000,El Señor de la Challa
+Aed Finn (Full Art),1500,El Señor de la Challa
+Morgana (Full Art),1500,El Señor de la Challa
+Cesar Augusto (Full Art),1500,El Señor de la Challa
+Sir Persival (Full Art),1500,El Señor de la Challa
+Dianan y Bechulle (Arte Black),1500,El Señor de la Challa
+Dragones (Full Art),1500,El Señor de la Challa
+Linaje Celta (Full Art),2500,El Señor de la Challa
+Relampago Arcano (Arte Alternativo),1500,El Señor de la Challa
+Cesar Augusto (Arte Rojo),10000,El Señor de la Challa
+El Gran Zeus UR,5000,El Señor de la Challa
+La Serpiente Negra (Promo Primer Bloque),3000,El Señor de la Challa
+Drain Ifanc (Foil Lluvia),5000,El Señor de la Challa
+Cria De Wyrm (Arte Black),2000,El Señor de la Challa
+Tuatha de Danaan (Arte Shogun),3000,El Señor de la Challa
+Ash (Foil),1000,El Señor de la Challa
+Atlante (Arte Shogun),1500,El Señor de la Challa
+Fénix (Arte Shogun),1500,El Señor de la Challa
+Selene (035/236),1000,El Señor de la Challa
+Siete Contra Tebas (Version Shogun),5000,El Señor de la Challa
+Aceite de Oliva (Artes Shogun) 15A,3000,El Señor de la Challa
+Aceite de Oliva (Artes Shogun) 15B,3000,El Señor de la Challa
+Sir Tyolet (Festividades 01/12),2000,El Señor de la Challa
+Monte Kilgharrah (AESX 23/36),3000,El Señor de la Challa
+Draig Ifanc (Edicion Dracula),1500,El Señor de la Challa
+Lugaid (Foil),1500,El Señor de la Challa
+Kawit,1000,El Señor de la Challa
+Europa Logo Edicion Aniversario,2000,El Señor de la Challa
+Aceite de Oliva 20 Años,3000,El Señor de la Challa
+Dragon Cobrizo (Full Art),1500,El Señor de la Challa
+Duendes (178/236 Foil),1000,El Señor de la Challa
+Druida Maldito,3000,El Señor de la Challa
+Pilar Botero (LPB23 309/300 P),5000,El Señor de la Challa
+Asaltar la Caravana (Foil),1000,El Señor de la Challa
+Casa Jeneret,4000,El Señor de la Challa
+Luz de Prometeo,5000,El Señor de la Challa
+Caja de Pandora (Arte Alternativo),4000,El Señor de la Challa
+Figuras Negras,8000,El Señor de la Challa
+Bola de Fuego (Toolkit),2000,El Señor de la Challa
+Espada Larga (Toolkit),6000,El Señor de la Challa
+Guardia Gozosa (Toolkit),4000,El Señor de la Challa
+Corona de Arturo (Promo),3000,El Señor de la Challa
+Sir Gaheris (LPB23 301/300),8000,El Señor de la Challa
+Milano Rojo (Legendario),15000,El Señor de la Challa
+Bola de Fuego (20 años),3500,El Señor de la Challa
+Fe sin Limite Promo,3000,El Señor de la Challa
+Tebas (Foil),1000,El Señor de la Challa
+Tangredo Foil (289/300),1000,El Señor de la Challa
+Arc Mac Cuinn,3000,El Señor de la Challa
+Astreo (Arte Alternativo),6000,El Señor de la Challa
+Guerrero de la Libertad (Promo Coleccionista),4000,El Señor de la Challa
+Eros,1500,El Señor de la Challa
+Dragon Ceniza,1000,El Señor de la Challa
+Ra_,1000,El Señor de la Challa
+Djoser,1000,El Señor de la Challa
+Ira ignea Toolkit,2000,El Señor de la Challa
+Fe sin Limite Coleccionista ES,5000,El Señor de la Challa
+Sir Persival Coleccionista ES,2000,El Señor de la Challa
+Defensores Celtas (Foil),1000,El Señor de la Challa
+Hacha de Batalla (New Foil 2023),1500,El Señor de la Challa
+Bola de Fuego (New Foil 2023),1500,El Señor de la Challa
+Papiros de Lahun,6000,El Señor de la Challa
+Djedefhor,7000,El Señor de la Challa
+Brian Boru,5000,El Señor de la Challa
+Caja de Pandora (TKP2 29/15),10000,El Señor de la Challa
+Bola de Fuego (Legendaria),20000,El Señor de la Challa
+Erastostenes (Edicion Limitada Racial 2023),2000,El Señor de la Challa
+Cuchulain (Edicion Limitada Racial 2023),3000,El Señor de la Challa
+Bola de Fuego (Set el reto),1000,El Señor de la Challa
+Fe sin Límite (Juego Organizado),7000,El Señor de la Challa
+Rito de Aton (85/85 Leyendas PB),4000,El Señor de la Challa
+Bahiti Promo Coleccionistas,1500,El Señor de la Challa
+Aceite De Oliva Set Retro,1000,El Señor de la Challa
+Macda Tho (Promo Coleccionista),2000,El Señor de la Challa
+Mineros de Lapislazuli,2500,El Señor de la Challa
+Haquika (Kit Racial),1000,El Señor de la Challa
+Jinetes de Fuego (Promo),2000,El Señor de la Challa
+Rea (Full Art),1500,El Señor de la Challa
+Astreo (Full Art),2500,El Señor de la Challa
+Espartaco (Arte Black),1000,El Señor de la Challa
+Thanatos (Arte Black),1000,El Señor de la Challa
+Dario el Grande (Arte Black),1500,El Señor de la Challa
+Julio Cesar (Kit Racial),1500,El Señor de la Challa
+Morgana (Promo),2000,El Señor de la Challa
+Tuatha de Danaan (CRPB2-13-72),1500,El Señor de la Challa
+Atenea (Kit Racial),1000,El Señor de la Challa
+Atenea (Promo),2000,El Señor de la Challa
+Ra (Promo),3000,El Señor de la Challa
+Keops,1000,El Señor de la Challa
+Cultistas del Dragón (149/334 Aniverdario ES Foil),1000,El Señor de la Challa
+Sir Lancelot (102/334 Aniversario ES),1000,El Señor de la Challa
+Biblioteca Eterna (LPB23 118/300),1000,El Señor de la Challa
+Dragon de Magma (Top Loader),2000,El Señor de la Challa
+Hienas Asesinas (266/364),1000,El Señor de la Challa
+Ataque Sorpresa (53/236),1000,El Señor de la Challa
+Corona de Arturo (156/334 Aniversario ES),2000,El Señor de la Challa
+Amenofis II (019/236),3000,El Señor de la Challa
+Atraer la Tormenta,1000,El Señor de la Challa
+Siete Contra Tebas (35/85 Leyendas PB),8000,El Señor de la Challa
